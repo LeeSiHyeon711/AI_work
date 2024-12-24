@@ -1,0 +1,1001 @@
+Unnamed: 0,번호,제목,저자,출판사,출판일,학위논문사항
+,1,Holistic Cross-Layer Improvements for Big Data Processing in New Computing Environments,"Nguyen, Nam S",University of Massachusetts Boston,2020,해외박사(DDOD)
+,2,Network Design in the Big-Data Age,"Zhou, Xia","University of California, Santa Barbara",2013,해외박사(DDOD)
+,3,Machine learning–based prediction model and big data-associated risk factors of COVID-19 = 감염병 대응을 위한 의료빅데이터 관련 위험인자 분석 및 기계학습을 통한 예측모형 개발,연동건,세종대학교 대학원,2024,국내박사
+,4,"Partial EM Procedure for Big-Data Linear Mixed Effects Model, and Generalized PPE for High-Dimensional Data in Julia","Cho, Jang-Ik",Case Western Reserve University,2018,해외박사(DDOD)
+,5,Materials data repository and big-data tool for data-driven material science = 데이터 중심의 재료 과학 연구를위한 재료 데이터 저장소 및 기계 학습 도구,SAMUEL BOATENG,University of Science and Technology,2020,국내박사
+,6,Multi-objective Optimization of Big Data Transfers,"Nine, Md S. Q. Zulkar",State University of New York at Buffalo,2020,해외박사(DDOD)
+,7,"Quantifying the ""Placeness"" of local commercial districts using social big data",권소연,"Graduate School, Yonsei University",2022,국내석사
+,8,Spectral Top-N: A Computationally Efficient Top-N Algorithm for Big Data Analytics,"Hutchison, Kenneth",The Pennsylvania State University,2015,해외박사(DDOD)
+,9,"Long/Short-term Predictions of Algal Blooms Using the Machine Learning and Modeling Approaches, Based on the Big-Data Mining, Along with Water Quality Assessments and Managements",이혜숙,忠南大學校 大學院,2019,국내박사
+,10,유전체 빅데이터 기반의 유전 마커 발굴 및 표현형 예측 = Genetic marker selection and phenotype prediction based on genomic big-data,김재윤,과학기술연합대학원대학교,2021,국내박사
+,11,Customized Computing: Acceleration of Big-Data Applications,"Qiao, Weikang","University of California, Los Angeles",2022,해외박사(DDOD)
+,12,Probabilistic hashing techniques for big data,"Shrivastava, Anshumali",Cornell University,2015,해외박사(DDOD)
+,13,API Design and Middleware Optimization for Big Data and Machine Learning Applications,"Guo, Jia",The Ohio State University,2021,해외박사(DDOD)
+,14,ICT Policy Principles to Design a Digital Center for Big Data Management in Rwanda = 빅데이터 관리를 위한 디지털 센터 설계를 위한 ICT 정책 원리 르완다에서,"엔쿤지마나, 도나스",부산대학교 대학원,2020,국내석사
+,15,Geo-distributed big data processing,"Jayalath, Chamikara Madhusanka",Purdue University,2014,해외박사(DDOD)
+,16,스마트팩토리 환경에서 제조 빅데이터 아키텍처 개발 = Development of Manufacturing Big Data Architecture in Smart Factory Environments,박상일,한국해양대학교 대학원,2023,국내박사
+,17,"A study on the factors influencing the adoption of Big data for managing basic food commodities at the Ministry of Industrialization, Trade and Consumption in Madagascar = 마다가스카르 산업통상소비부 기초식품 관리를 위한 빅데이터 도입에 미치는 영향요인 연구",Vololoniaina Lucienne,숭실대학교 정보과학대학원,2023,국내석사
+,18,빅데이터 역량이 기업의 동태적 마케팅 역량과 성과에 미치는 영향 연구 : -중국 기업을 중심으로- = The Influence of Big Data Capabilities on Firms’ Dynamic Marketing Capabilities and Performance: Focused on Chinese Companies,옹업림,목원대학교 대학원,2023,국내박사
+,19,"Big data present and future in the developing countries ""Senegal as an example"" = English",무하메드,배재대학교,2018,국내석사
+,20,Scalable Big Data Analytics using Divide-and-Conquer and Data Fusion for Remote Sensing Applications : 원격 감지 어플리케이션을위한 Divide-and-Conquer 및 Data Fusion을 사용하는 확장 가능한 대규모 데이터 분석,"Ahmad, Awais",경북대학교 대학원,2017,국내박사
+,21,(A) STUDY ON SAFETY-CRITICAL CYBER PHYSICAL SYSTEM ARCHITECTURE AND ITS TIME SERIES BIG DATA ANALYSIS,임유진,국민대학교 비즈니스IT전문대학원,2016,국내박사
+,22,Intermediate results orchestration based service-oriented data and knowledge curation framework for intelligent video big data analytics in the cloud,Aftab Alam,경희대학교 대학원,2021,국내박사
+,23,(A) social big data approach to spatial experiences and interior design elements : focusing on user-generated content of lifestyle hotels on Instagram,한유진,"Graduate School, Yonsei University",2022,국내박사
+,24,Spatial big data analytics for urban informatics,"Evans, Michael Robert",University of Minnesota,2013,해외박사(DDOD)
+,25,Establishing Secure IoT-Based Smart City using Real-Time Big Data Analytics and Cryptosystems : 실시간 Big Data Analytics 및 Cryptosystems를 이용한 안전한 IoT 기반 Smart City 구축,"Rathore, Muhammad Mazhar Ullah",경북대학교 대학원,2017,국내박사
+,26,(A) study on the improvement for big data utilization- focused on health insurance claims data-,정보영,"Graduate School, Yonsei University",2018,국내박사
+,27,(The) role of public sector for creating big data value : exploring the challenges moving forward in data economy,Ji Yeon Cho,"Graduate School of Information, Yonsei University",2018,국내박사
+,28,A Study on the Influence of Entrepreneurial Orientation and Big Data Capability on the Performance of Science and Technology Enterprises in China : Focusing on Business Model Innovation and Knowledge Creation = 기업가적 지향성과 빅데이터 능력이 중국 과학기술기업의 성과에 미치는 영향에 관한 연구: 비지니스모델의 혁신과 지식창출을 중심으로,이남,우석대학교 일반대학원,2023,국내박사
+,29,"A Privacy Protection Scheme based on Law, Technology and Management Factors in Big Data Environment = 빅 데이터 환경에서 법률, 기술 및 관리 요인에 기반한 개인 정보 보호 체계",왕덕규,원광대학교 일반대학원,2021,국내박사
+,30,Case Study of Analysis the Marketing Management and Development Trend of the China Mobile Company Based on Big Data,덩쓰위안,호서대학교 대학원,2022,국내박사
+,31,"Big Data Analysis for Manufacturing Operations Innovation: Design Text, Production Network, Quality Classification = 제조 운영 혁신을 위한 빅 데이터 분석: 설계 텍스트, 생산 네트워크, 품질 분류",양지원,서울대학교 대학원,2023,국내박사
+,32,Critical Factors Affecting The Adoption of Big Data Systems For Smart Grid  (BD-SG) In Egypt = 이집트의 스마트 그리드(BD-SG)용 빅데이터 시스템의 도입에 영향을 미치는 핵심 요인 연구,애쉬마위이매드 로프티,숭실대학교 정보과학대학원,2017,국내석사
+,33,"A Study on Big Data and Analysis Software in Multiple Domains: Vehicles, Construction, Energy = 다중 도메인 기반 빅데이터 및 분석 소프트웨어에 관한 연구: 자동차, 건설, 에너지","Lee, JaeKyu",고려대학교 대학원,2022,국내박사
+,34,Application of Big Data and Artificial Intelligence in Sports : Sports Big Data = 스포츠에서 빅데이터와 인공지능 적용방안,하종선,국립한국해양대학교 대학원,2024,국내석사
+,35,Forecasting based on Big Data Analytics and Machine Learning Techniques for Spatial and Temporal Impact Analysis of Electric Vehicle Charging Demand on Distribution Network,아리아스마리즈,한양대학교 대학원,2024,국내박사
+,36,A Study On Key Factors Affecting The Adoption of An Intelligent Healthcare Management System Based on Big Data in Nigeria. = 나이지리아의 빅데이터 기반 지능형 의료 관리 시스템 도입에 영향을 미치는 요인에 대한 연구,Salami Omolola Aybaeyin,숭실대학교 정보과학대학원,2023,국내석사
+,37,농업 빅데이터 플랫폼상의 농업경영데이터 활용의도에 영향을 미치는 요인에 관한 연구 = A Study on the Factors Affecting Utilization Intention of Agricultural Management Data on the Agricultural Big Data Platform,손경자,숭실대학교 대학원,2021,국내박사
+,38,Data-Centric Computing System Design for Emerging Big Data Applications : 빅 데이터 어플리케이션을 위한 데이터-중심 컴퓨팅 시스템 설계,임홍열,세종대학교 대학원,2017,국내박사
+,39,Data Mining Method for Offshore Structures based on Big Data Technology,박성우,서울대학교 대학원,2019,국내석사
+,40,(A) study on the perceptions and consumption values of ethical consumption by using social media big data,신은정,"Graduate School, Yonsei University",2019,국내박사
+,41,A Study Assessing The Characteristics of Big Data Environments that Predict High Research Impact: Application of Qualitative and Quantitative Methods,"Ameli, Omid",Boston University,2020,해외박사(DDOD)
+,42,"Votes, Genes, Grades: Deconstructing Big Data's Rhetorical Reach","Weisse, Kathleen Daly",The University of Wisconsin - Madison,2019,해외박사(DDOD)
+,43,(A) comparative analysis of the brand image of Korean and German cars : using big data,김정민,"Graduate School of International Studies, Korea University",2015,국내석사
+,44,Hadoop based demography big data management system,"Bukhari, Syeda Sana",Sungkyunkwan university,2018,국내석사
+,45,(A) study on big data analytics for nation-wide livestock farm management system in cloud computing environment,이종욱,"Graduate School, Korea University",2014,국내박사
+,46,IoT-based Sensor Big Data Collection and Monitoring System for Smart Manufacturing,REN SOTHEARIN,충북대학교,2021,국내석사
+,47,Typologies and future signals of school bullying method using social big data analysis,"Kim, Hayoung",Sungkyunkwan University,2018,국내석사
+,48,Bankruptcy prediction modeling using qualitative information based on big data analytics,조남옥,이화여자대학교 대학원,2015,국내박사
+,49,(A) Study on the Method for the Estimation of Energy Efficiency Operational Indicator of a Ship Based on Technologies of Big Data and Deep Learning,김성훈,서울대학교 대학원,2018,국내석사
+,50,Building Coffee Commodity Trading Data Warehouse: Decision Making Support Applying Big Data Analysis,LE NGOC BAO VAN,한국해양대학교 대학원,2022,국내석사
+,51,Recent Trends and Proposed Response Strategies of International Standards Related to Shipbuilding Equipment Big Data Integration Platform,임진홍,한국해양대학교 대학원,2021,국내석사
+,52,Big data analysis through text mining on the social spread of risk information : Focusing on international online news reports on infectious diseases and preventive actions,"Lee, Kyeore",Sungkyunkwan University,2022,국내박사
+,53,A Physics-Informed Neural Network Framework for Big Machinery Data in Prognostics and Health Management for Complex Engineering Systems,"Cofre Martel, Sergio Manuel Ignacio","University of Maryland, College Park",2022,해외박사(DDOD)
+,54,Efficient execution framework to support many-task computing on big data platform = 빅데이터 플랫폼에서 many-task computing 지원을 위한 효율적인 실행 프레임워크,"Nguyen, Ngoc Cao",University of Science and Technology,2019,국내박사
+,55,빅데이터에 기반한 대기오염 시공간 변화추세 가시화 및 예측에 관한 연구 = Research on visualization and prediction of spatial and temporal evolution of air pollution based on big data,진초,목원대학교 대학원,2023,국내박사
+,56,An Efficient Fault-Tolerant and Reliable Data Integrity Framework for Object-Based Big Data Transfer Systems,KASU PREETHIKA ANAND RAO,아주대학교,2022,국내박사
+,57,"Big Data Analysis using Experimental Optimization, Data Mining, and Decision Making Methodology : 실험적 최적화와 데이터마이닝, 의사결정론을 활용한 빅데이터 분석",니타솔레하티,전북대학교 일반대학원,2015,국내박사
+,58,UDAS : big data analysis system focusing on data refinement and reusability,최현진,"Graduate School, Korea Unversity",2019,국내박사
+,59,SPARK BASED DISTRIBUTED DEEP LEARNING FRAMEWORK FOR BIG DATA APPLICATIONS = 빅데이터 애플리케이션을 위한 아파치 스파크 기반 분산 딥러닝 프레임워크,"아메도브, 쿠모윤 마루요노비치",건국대학교 대학원,2016,국내석사
+,60,Design and Implementation of Architecture for Interoperability of Bio-Signal Sharing and Analytical Techniques based on Big Data,주문일,인제대학교 일반대학원,2018,국내석사
+,61,Scoring System for Predicting Functional Outcome at 3-months Based on Linked Big Data after Acute Ischemic Stroke: S-SMART score = 연계 빅데이터 기반의 급성 뇌경색 환자의 3개월 후 기능적 예후 예측 점수 체계: S-SMART score,김태정,서울대학교 대학원,2019,국내박사
+,62,Enhancing Data-Driven Decision Making in Agriculture: A Big Data Approach,"Meisner, Matthew Harvey","University of California, Davis",2015,해외박사(DDOD)
+,63,열악한 다리 및 도로 환경에서 스노우멜팅을 통한 빅데이터 분석 및 App 시스템 개발 : The Development of Big Data Analysis System and App system by Snow Melting in poor environment on Bridge and Road,우마로프 잠시드,한국교통대학교 일반대학원,2017,국내석사
+,64,Predictive big data analytics on spatiotemporal dynamics of flooding with machine learning,"Narimani, Roya",중앙대학교 대학원,2023,국내박사
+,65,Compiler and Runtime Support for Efficient and Scalable Big Data Processing,"Nguyen, Khanh Truong Duy","University of California, Los Angeles",2019,해외박사(DDOD)
+,66,Exploring Strategies to Transition to Big Data Technologies from DW Technologies,"Fortem, Mbah Johnas",Walden University,2020,해외박사(DDOD)
+,67,Application of Data Mining and Big Data Analytics in the Construction Industry,"Abounia Omran, Behzad",The Ohio State University,2016,해외박사(DDOD)
+,68,Automated Performance and Correctness Debugging for Big Data Analytics,"Teoh, Jia Shen","University of California, Los Angeles",2022,해외박사(DDOD)
+,69,Comprehensive analysis of genomic big-data in discovering genetic markers = 유전마커 발굴을 위한 다양한 유전체 빅테이터 분석,김경현,과학기술연합대학원대학교,2020,국내박사
+,70,Practical Integrity Assurance for Big Data Processing Deployed over Open Cloud,"Wei, Wei",North Carolina State University,2013,해외박사(DDOD)
+,71,New Advancements of Scalable Statistical Methods for Learning Latent Structures in Big Data,"Zhao, Shiwen",Duke University,2016,해외박사(DDOD)
+,72,Analysis on College Students’ Learning Behaviors and Prediction on Their Academic Achievement based on Campus Big Data,허환,순천향대학교 일반대학원,2023,국내박사
+,73,SpatialHadoop: A MapReduce Framework for Big Spatial Data,"Eldawy, Ahmed",University of Minnesota,2016,해외박사(DDOD)
+,74,A Study on a Real-time Detection and Monitoring System for Abnormal Fire Occurrences Based on Big Data Mining,주기돈,명지대학교 대학원,2014,국내석사
+,75,Statistical Analysis of Networks with Community Structure and Bootstrap Methods for Big Data,"Sengupta, Srijan",University of Illinois at Urbana-Champaign,2016,해외박사(DDOD)
+,76,Design and Implementation of Power Cable Insulation Diagnosis Monitoring System Based on Big Data = 빅데이터를 기반으로 전력 케이블의 절연진단을 위한 모니터링 시스템 설계 및 실현,유위,원광대학교 일반대학원,2019,국내박사
+,77,A Study on analysis and application of water management based on big data : focusing on prevention of water rates delinquency in local waterworks,김선주,KDI School of Public Policy and Management,2018,국내석사
+,78,(A) personalized recommender system based on friendship strength using social big data,서용덕,Korea University,2018,국내박사
+,79,(A) study of the choice attributes affecting to medical tourism in Korea using big data = 빅데이터를 활용한 한국의 의료관광 선택속성의 구성 분석,"Osmonova, Cholpon",Pukyong National University,2019,국내석사
+,80,Data Management Solutions for Tackling Big Data Variety,"Arora, Vaibhav","University of California, Santa Barbara",2018,해외박사(DDOD)
+,81,Subsampling based optimization strategy to analyze big data with LCA,오현정,"Graduate School, Korea University",2021,국내석사
+,82,Development of standardized stepwise evaluation and integrated management model for Clinical Big data Quality improvement,변정현,아주대학교,2020,국내박사
+,83,Big social media data mining for marketing intelligence,"Zhang, Kunpeng",Northwestern University,2013,해외박사(DDOD)
+,84,A multilayer networks analysis for mining quantification rules from big proteomics data : 빅 데이터에 기반하여 단백질체학 데이터에서의 수량화 규칙을 찾기 위한 다층 네트워크 구축과 분석,진수현,DGIST,2017,국내석사
+,85,New models and methods for time series analysis in big data era,"Liu, Xialu",Rutgers The State University of New Jersey - New Brunswick,2015,해외박사(DDOD)
+,86,Applying big data analysis for automotive parts testing data = 자동차 부품 시험자료 분석을 위한 빅데이터 분석 환경 구축,심인환,Soongsil University,2018,국내석사
+,87,Accelerating big data analytics via hardware-assisted memory management,"Jang, Jaeyoung",Sungkyunkwan university,2020,국내박사
+,88,Development of comparative analysis tools for biological big data = 바이오 빅데이터 비교분석 툴 개발에 관한 연구,권대홍,Konkuk University,2018,국내석사
+,89,Analysis of spatiotemporal patterns of dynamic population based on mobile phone big data in Seoul : using deep learning techniques for spatial knowledge inference,고민지,"Graduate School, Yonsei University",2022,국내석사
+,90,Designing the Next Generation Intelligent Transportation Sensor System Using Big Data Driven Machine Learning Techniques,"Huang, Tongge",Iowa State University,2020,해외박사(DDOD)
+,91,FPGA-based secure system for big data processing on cloud environment : FASTEN implementation and evaluation,홍보의,"Graduate School, Korea University",2018,국내석사
+,92,Toward software-defined Big Data Processing Systems,"Yu, Ze",University of Florida,2015,해외박사(DDOD)
+,93,Understanding Human Mobility and Urban Dynamics with Big Geospatial Data Analytics,"Jin, Chanwoo","University of California, Santa Barbara",2022,해외박사(DDOD)
+,94,Three essays on big data consumer analytics in e-commerce,"Lee, Dokyun",University of Pennsylvania,2015,해외박사(DDOD)
+,95,Design of dynamic scheduling model for big data mart batch jobs based on regression,이주희,한양대학교 공학대학원,2022,국내석사
+,96,A Power-Efficient Framework Based on Big-Data for Disaster Monitoring in Wireless Sensor Networks : 무선 센서 네트워크 환경에서 재난감시를 위한 빅데이터 기반의 효율적인 전력 프레임워크,"Uzoh, Paul Chiedozie",경북대학교 대학원,2016,국내석사
+,97,Efficient electric power production mechanism through big data-based demand forecasting,제승모,"Graduate School, Korea University",2020,국내석사
+,98,Matrix factorization modeling for recommender system in big data environment = 빅데이터 환경에서의 추천시스템을 위한 행렬분해 모델링,지자치,Wonkwang University,2018,국내박사
+,99,(An) integrated toxicogenomic study using big data and machine learning for understanding the toxicity mechanisms of cadmium exposure in rat liver In vivo system = Rat liver In vivo 시스템에서 카드뮴 노출의 독성기전 이해를 위한 빅데이터 및 머신러닝 기반의 통합적 독성 유전체 연구,이상민,Dongguk University,2019,국내박사
+,100,A Study on Predicting Survival Time of Hepatocellular Carcinoma Patients: Big Data Analysis for the Development of an Artificial Intelligence = 간세포암 환자의 생존시간 예측에 대한 연구: 인공지능 개발을 위한 빅 데이터 분석,Yujin Kwon,부산대학교,2020,국내박사
+,1,A measurement of the cosmic microwave background angular power spectrum with DASI,"Halverson, Nils William",California Institute of Technology,2002,해외박사(DDOD)
+,2,Athletic training education program directors: Meanings of success and development,"Meyer, Carrie Ann Taecker",Arizona State University,2005,해외박사(DDOD)
+,3,"Intercollegiate athletic reform: Examining the support for athletic reform of faculty athletic representative, athletic director, senior woman administrator and head coach","Christy, Keith M",The Ohio State University,2007,해외박사(DDOD)
+,4,Statistical methods for expression quantitative trait loci (eQTL) mapping,"Chen, Meng",The University of Wisconsin - Madison,2006,해외박사(DDOD)
+,5,A new spin on primordial hydrogen recombination and a refined model for spinning dust radiation,"Ali-Haimoud, Yacine",California Institute of Technology,2011,해외박사(DDOD)
+,6,Three essays on agricultural futures traders,"Aulerich, Nicole Mary",University of Illinois at Urbana-Champaign,2011,해외박사(DDOD)
+,7,Analysis of evoked potentials on the surface and in depth of primary auditory cortex,"Kanlis, Nikolaos A","University of Maryland, College Park",2003,해외박사(DDOD)
+,8,Extracting Knowledge from Twitter and The Web,"Ritter, Alan",University of Washington,2013,해외박사(DDOD)
+,9,"Perception of emotion in faces: Mood, personality, menstrual cycle phase and breastfeeding chemosignals","Bullivant, Susan Beth",The University of Chicago,2013,해외박사(DDOD)
+,10,"A Portrait of Elementary Visual Arts Educators: Investigating the Pedagogy, Characteristics and Beliefs of Three Exceptional Elementary Art Teachers","Hunter-Doniger, Tracey",The University of Wisconsin - Madison,2012,해외박사(DDOD)
+,11,Biological and Physical Factors Affecting the Natural History and Evolution of Encapsulated Development,"von Dassow, Yasmin Jahanara",Duke University,2016,해외박사(DDOD)
+,12,The lukewarm frontier: Some cosmological consequences of 'low-energy' physics,"Grin, Daniel",California Institute of Technology,2010,해외박사(DDOD)
+,13,Studies in regional climate modeling over the tropical Atlantic region,"Herceg, Deborah",Columbia University,2006,해외박사(DDOD)
+,14,Life out of sequence:  An ethnographic account of bioinformatics from the APPANET to post-genomics,"Stevens, Hallam",Harvard University,2010,해외박사(DDOD)
+,15,Valuing place:  Understanding the role of community amenities in rural teacher labor markets,"Miller, Luke Currie",Stanford University,2008,해외박사(DDOD)
+,16,Essays on the politics of the American Welfare State,"Pipinis, Dimitris",University of Southern California,2012,해외박사(DDOD)
+,17,Eco-physiology of three perennial bioenergy systems,"Burks, Jennifer L",Purdue University,2013,해외박사(DDOD)
+,18,Three essays in the economics of law and language,"Mialon, Hugo Marc",The University of Texas at Austin,2004,해외박사(DDOD)
+,19,On the nonexistence of certain morphisms from Grassmannian to Grassmannian in characteristic 0,"Ramadoss, Ajay C",The University of Chicago,2005,해외박사(DDOD)
+,20,"Unions, taxes, and the changing Mexican labor market: 1990--2007","Frias Anguiano, Judith Alejandra","University of California, Los Angeles",2008,해외박사(DDOD)
+,21,Multicast congestion control and loss recovery with network assistance,"Peng, Jun",Rensselaer Polytechnic Institute,2004,해외박사(DDOD)
+,22,Investigating the Presence of Nonlinear Personality---Job Performance Relationships,"Walmsley, Philip T",University of Minnesota,2013,해외박사(DDOD)
+,23,Neutrino astrophysics and cosmology,"Abazajian, Kevork Nazar","University of California, San Diego",2001,해외박사(DDOD)
+,24,"Personality, life satisfaction, and career decision status:  An examination of factors that impact the career decisions of Black college students","Browne, Joan M",Howard University,2005,해외박사(DDOD)
+,25,Nanowire growth process modeling and reliability models for nanodevices,"Fathi Aghdam, Faranak",The University of Arizona,2016,해외박사(DDOD)
+,26,Population structure and evolutionary history of a cave-adapted planthopper in the Hawaiian islands,"Shingleton, Keri Elizabeth",Washington University,2001,해외박사(DDOD)
+,27,Deleted records recovery method for MySQL MyISAM database,노우선,高麗大學校 情報保護大學院,2016,국내석사
+,28,Teachers' professional development needs and current practices at the Alexander Science Center School,"Gargus, Gerald Vincent",University of Southern California,2006,해외박사(DDOD)
+,29,The effects of small learning communities on students' academic achievement in urban secondary schools,"Cayemite, Edner J",University of Massachusetts Boston,2005,해외박사(DDOD)
+,30,SOC test scheduling with hot-spot avoidance based on user-defined constraints,"Chin, Tzuchien (James)",The University of Texas at Dallas,2005,해외박사(DDOD)
+,31,Social and Economic Impacts of Natural Disasters,"Jara Valencia, Benjamin Andres",The Ohio State University,2016,해외박사(DDOD)
+,32,Conservation genetics of reintroduced California bighorn sheep in Oregon,"Olson, Zachary H",Purdue University,2010,해외박사(DDOD)
+,33,"Policy punctuations, city governance structures, and budgetary changes in American cities","Caver, Floun'say Romaine",The University of Texas at Dallas,2005,해외박사(DDOD)
+,34,Plant-insect (Lepidoptera) interaction in maize,"Chuang, Wen-Po",The Pennsylvania State University,2012,해외박사(DDOD)
+,35,Two essays on consumption smoothing and saving,"Torralba, Francisco",The University of Chicago,2010,해외박사(DDOD)
+,36,"Aggregate shocks, idiosyncratic risk, consumption, and risk-sharing","Duygan, Burcu",The Johns Hopkins University,2004,해외박사(DDOD)
+,37,Measurement of the Cosmic Microwave Background Polarization with the Bicep Telescope at the South Pole,"Takahashi, Yuki David","University of California, Berkeley",2010,해외박사(DDOD)
+,38,Trace gas observations over rural Virginia:  Photochemistry and transport,"Hallock-Waters, Kristen Anne",University of Maryland College Park,2000,해외박사(DDOD)
+,39,A search for particle dark matter using cryogenic germanium and silicon detectors in the one- and two-tower runs of CDMS-II at Soudan,"Ogburn, Reuben Walter, IV",Stanford University,2008,해외박사(DDOD)
+,40,Sensitivity analysis of ozone formation in urban and rural areas of korea using CMAQ = CMAQ 모델을 이용한 수도권지역의 도심과 비도심 지역에서의 오존 형성 민감도 분석,Nguyen Phuoc Quy An,건국대학교 대학원,2012,국내석사
+,41,Probing the dark ages:  Observations of the high-redshift universe,"Stevens, Daniel Keith","University of California, Berkeley",1999,해외박사(DDOD)
+,42,Supporting Fault Tolerance in the Internet of Things,"Zhou, Sen","University of California, Irvine",2015,해외박사(DDOD)
+,43,Learning to write the candidacy examination: Professors and students talking about academic genres and authorship,"Lin, Hsing I",The Ohio State University,2003,해외박사(DDOD)
+,44,Reputation as Information: A multilevel approach to reputation in organizations,"Coyne, Erin Elizabeth",The Ohio State University,2010,해외박사(DDOD)
+,45,"Social structure and the dynamics of interfirm ties: The audit services market, 1986 to 2002","Grbic, Douglas E",University of Illinois at Urbana-Champaign,2007,해외박사(DDOD)
+,46,Essays in e-commerce,"Pozzi, Andrea",Stanford University,2009,해외박사(DDOD)
+,47,Designing measures for assessing teachers' pedagogical content knowledge of geometry and measurement at the middle school level,"Manizade, Agida",University of Virginia,2006,해외박사(DDOD)
+,48,Essays in empirical finance,"Benzoni, Luca",Northwestern University,2001,해외박사(DDOD)
+,49,Interfacial transport driven by redox active surfactants,"Bai, Guiyu",The University of Wisconsin - Madison,2005,해외박사(DDOD)
+,50,Essays in applied microeconomics,"Greenland, Andrew Neil",Purdue University,2013,해외박사(DDOD)
+,51,Adult re-entry students: Experiences preceding entry into a rural Appalachian community college,"Genco, Jessica T",East Tennessee State University,2005,해외박사(DDOD)
+,52,LASSO-patternsearch algorithm,"Shi, Weiliang",The University of Wisconsin - Madison,2008,해외박사(DDOD)
+,53,The neglected importance of feedback perception in learning: An analysis of children and adults' uptake of quantitative feedback in a mathematics simulation environment,"Blair, Kristen Pilner",Stanford University,2009,해외박사(DDOD)
+,54,Rural high school mathematics teachers' response to mathematics reform curriculum integration and professional development,"Cox, Teodora B",University of Illinois at Urbana-Champaign,2009,해외박사(DDOD)
+,55,Structural insight in to the mechanism of wavelength tuning in a rhodopsin mimic and a single mutation resulted an extensive 3D domain swapped dimerization in hCRBPII,"Nossoni, Zahra",Michigan State University,2014,해외박사(DDOD)
+,56,An estimable model of illegal Mexican immigration,"Colussi, Aldo",University of Pennsylvania,2004,해외박사(DDOD)
+,57,Football Players' Perspectives on Academic Involvement: Support Services Which May Lead Towards Graduation at Universities with Division 1-A Athletic Programs,"Jelin, Debra Lynn","University of California, Los Angeles",2011,해외박사(DDOD)
+,58,Estimation of statistical network and region-wise variable selection,"Chakraborty, Sayan",Michigan State University,2016,해외박사(DDOD)
+,59,The digital diaspora in Sunset Park:  Information and communication technologies in Brooklyn's Chinatown,"Williams, Sarah Wendolyn",City University of New York,2013,해외박사(DDOD)
+,60,An experiment in computer training of child welfare workers,"Massimo, Valerie Scott",State University of New York at Albany,2000,해외박사(DDOD)
+,61,Local labor market dynamics with net and gross mobility:  Implications for unemployment and wages,"Lkhagvasuren, Damba",University of Rochester,2007,해외박사(DDOD)
+,62,"Analysis, Design, and Logic Synthesis of Finite-state Machine-based Stochastic Computing","Li, Peng",University of Minnesota,2013,해외박사(DDOD)
+,63,Pricing network resources in differentiated service networks,"Yang, Weilai",Georgia Institute of Technology,2004,해외박사(DDOD)
+,64,Extended exponential criterion:  A new selection procedure for scatterplot smoothers,"Kou, Shingchang",Stanford University,2001,해외박사(DDOD)
+,65,"Openness to Experience, Agreeableness, and gay male intimate partner preference across racial lines","Boileau, Sean N",Arizona State University,2008,해외공개박사
+,66,Body weight and survival:  The US experience,"Yu, Yan",The University of Wisconsin - Madison,2008,해외박사(DDOD)
+,67,Optical wave-mixing and photorefractivity in liquid crystals,"Ding, Jianwu",The Pennsylvania State University,2005,해외박사(DDOD)
+,68,"Competitive advantages:  What three prestigious private universities do to compete in their elite Division 1A athletics conferences (North Carolina, Illinois, California)","DiStanislao, Mary",University of Pennsylvania,2005,해외박사(DDOD)
+,69,Great expectations in hard times: The psychological risks of Chinese only children in late adolescence,"Wei, Caihong",Harvard University,2005,해외박사(DDOD)
+,70,SR proteins in microRNA/mRNA biogenesis,"Wu, Han",Duke University,2011,해외박사(DDOD)
+,71,Results and Systematic Studies of the UCN Lifetime Experiment at NIST,"Huffer, Craig Reeves",North Carolina State University,2017,해외박사(DDOD)
+,72,"&iquest;When is it the Gesture that  Counts: Telling stories that cut to the [Cyber]chase -- or, gest get to the  po&iexcl;nt!","Swart, Michael",Columbia University,2016,해외박사(DDOD)
+,73,"Investigating tidal inundation, pore water seepage, and groundwater flow within a salt marsh of the Florida Gulf Coast","Esch, Margaret Erin Sachiko",The University of North Carolina at Chapel Hill,2016,해외박사(DDOD)
+,74,"Understanding precursors of psychological distress for fathers of children with cancer: The role of coping styles, personality, and ambiguity tolerance","Koraman, Defne",New York University,2005,해외박사(DDOD)
+,75,Essays on the Politics of Diversity in Modern America: A Causal Inference Approach,"Anastasopoulos, Lefteris Jason","University of California, Berkeley",2013,해외박사(DDOD)
+,76,Teachers and telecomputing:  A matter of decision,"de la Garza, Tracey Victoria",The University of Texas at Austin,2006,해외박사(DDOD)
+,77,"Learning styles of practicing accountants in Mainland China, Hong Kong, and the United States: A cross cultural study","Black, William L",New York University,2008,해외박사(DDOD)
+,78,Leaf Wax n-Alkanes as Paleoclimate Proxies: Calibrations in Modern Plants and Applications in Ancient Ecosystems,"Bush, Rosemary Tolbert",Northwestern University,2014,해외박사(DDOD)
+,79,Progress toward a detection of inflationary B-modes with the BICEP2 and Keck Array polarimeters,"Sheehy, Christopher D",The University of Chicago,2013,해외박사(DDOD)
+,80,"What a ""Facebook Smile"" Reveals About Future Happiness: The Expression of Positive Affect in Facebook Photographs Predicts Long-Term Well-Being","Seder, James Patrick",University of Virginia,2010,해외박사(DDOD)
+,81,Essays in finance,"Agronin, Eugene",Harvard University,2004,해외박사(DDOD)
+,82,(An) ESB based micro-scale urban air quality monitoring system,"Tu, Quach Ngoc",건국대학교 대학원,2010,국내석사
+,83,Essays in financial economics,"Kaplin, Andrew S",Northwestern University,2003,해외박사(DDOD)
+,84,Characteristics of injection drug users who utilize tuberculosis services at sites of a needle exchange program,"Riley, Elise Delynn",The Johns Hopkins University,2000,해외박사(DDOD)
+,85,"The rise of European cities: Technology, institutions, and growth","Dittmar, Jeremiah Edward","University of California, Berkeley",2009,해외박사(DDOD)
+,86,"Flow structures, mixing and droplet production in a fuel-water stratified shear layer","Wu, Xiongjun",The Johns Hopkins University,2003,해외박사(DDOD)
+,87,Microwave Photonic Filters for Interference Cancellation and Adaptive Beamforming,"Chang, John",Princeton University,2014,해외박사(DDOD)
+,88,"Government defeat: Coalitions, responsiveness, and legislative success","Saiegh, Sebastian M",New York University,2004,해외박사(DDOD)
+,89,Professional commitments and political identities: Challenges for feminist academic sociologists,"Laube, Heather Marie",State University of New York at Albany,2003,해외박사(DDOD)
+,90,The Phonology of Contact: Creole sound change in context,"Ng, E-Ching",Yale University,2015,해외박사(DDOD)
+,91,Using an in situ Kelvin probe to study changes in sliding metal surfaces,"Kasai, Toshikazu",The Ohio State University,2001,해외박사(DDOD)
+,92,Education finance equity:  Judicial treatment of key issues and impact of that treatment on reform,"Lukemeyer, Anna",Syracuse University,1999,해외박사(DDOD)
+,93,Computing tie strength,"Gilbert, Eric Edmund",University of Illinois at Urbana-Champaign,2010,해외박사(DDOD)
+,94,From the ground up: Conceptions of quality in course design for Web-supported education,"Greenberg, Gary",The Ohio State University,2010,해외박사(DDOD)
+,95,Transcriptome and secretome of two Pythium species during infection and saprophytic growth,"Ibarra Caballero, Jorge Rafael",Colorado State University,2016,해외박사(DDOD)
+,96,Improving the quality of quality improvement in health care: Case studies of provider office practices in the use of assisted office systems analysis within a quality improvement project,"van Eeghen, Constance O",The University of North Carolina at Chapel Hill,2012,해외박사(DDOD)
+,97,The Path of the Blind Watchmaker: A Model of Evolution,"Poggio, Andrew Anthony","University of California, Berkeley",2011,해외박사(DDOD)
+,98,The self-perceived leadership orientations of principals:  A multi-perspective framework,"Liu, Hsiu-Yu",The University of Wisconsin - Madison,2007,해외박사(DDOD)
+,99,Looking at it sideways: Alternative media and the activist critique of news,"Rauch, Jennifer",Indiana University,2006,해외박사(DDOD)
+,100,Enhancing speech to speech translation through exploitation of bilingual resources and paralinguistic information,"Tsiartas, Andreas",University of Southern California,2014,해외박사(DDOD)
+,1,Fog Computing Architecture for IOT and Big Data environment : IOT 및 빅 데이터 환경을위한 포그 (Fog) 컴퓨팅 아키텍처,"Hameed, Pinjari",경북대학교 대학원,2018,국내석사
+,2,Scalable Natural User Interfaces for Data-Intensive Exploratory Visualization: Designing in the Context of Big Data,"Coffey, Dane M",University of Minnesota,2014,해외박사(DDOD)
+,3,Study on Potential Mechanisms of Skin Damage and Protection Caused by Environmental Factors Using Big Data-Based Integrative Analysis = 환경 내 요인의 피부손상/보호 메커니즘 이해를 위한 생물학적 빅데이터 기반의 독성유전체 분석 및 분자독성 연구,김현수,동국대학교,2020,국내박사
+,4,Building a civic hacking model in the era of big data,김재규,"Graduate School, Korea University",2017,국내석사
+,5,Alternatives to relational databases in precision medicine: Comparison of NoSQL approaches for big data storage using supercomputers,"Velazquez, Enrique Israel",University of Pittsburgh,2015,해외박사(DDOD)
+,6,Toward BSP-based machine learning techniques for intrusion detection in high-speed big data networks,"Siddique, Kamran",Dongguk University,2018,국내박사
+,7,Intention of technology acceptance for meditation app users by using big data and UTAUT model,정유진,"Graduate School, Yonsei University",2022,국내박사
+,8,A Study on the Characteristic Analysis and Optimization Strategy of Tourism Development in Southwestern China using Big Data Analysis = 빅 데이터 분석을 활용한 중국 서남부 지역 관광개발 특성분석 및 최적화 전략에 관한 연구,이예,세한대학교 일반대학원,2022,국내박사
+,9,What Factors Affect Public Bike Demand by Purpose? : Integrated Analysis of User’s Trip Patterns and Urban Geospatial Big Data,이미성,이화여자대학교 대학원,2020,국내석사
+,10,Multiple Learning for Generalized Linear Models in Big Data   [electronic resource],"Liu, Xiang",Purdue University,2021,해외박사(DDOD)
+,11,Analysis of South Korea's Space Industry Using News Big Data : Focused on Topic modeling,김태영,경희대학교 대학원,2024,국내석사
+,12,"Big Data Challenges and Opportunities: Information Diffusion, User Behavior, and Informational Trends in Online Social Networks","Budak, Ceren","University of California, Santa Barbara",2012,해외박사(DDOD)
+,13,빅데이터 구축을 위한 딥러닝 알고리즘 응용 의료 영상 비식별화 소프트웨어 개발 = Development of medical image de-identification software applying deep learning algorithm for big data platform,정연욱,울산대학교,2021,국내석사
+,14,GeoAI-Enhanced Techniques to Support Geographical Knowledge Discovery from Big Geospatial Data,"Zhou, Xiran",Arizona State University,2019,해외박사(DDOD)
+,15,Solid State Drives for Big Data and Little Clients,"Li, Jing","University of California, San Diego",2018,해외박사(DDOD)
+,16,"Using ""Big Data"" to Study Orthopaedic Trauma Populations: Looking at fractures from a bird's eye view as illustrated by three studies","Samuel, Andre Michael",Yale University,2016,해외박사(DDOD)
+,17,(The) role of Mibyeong concept and traditional Korean medicine in female breast cancer: a big data analysis using national health insurance service data,"HUANG, CHING WEN",경희대학교 대학원,2020,국내박사
+,18,Nonparametric Bayes for Big Data,"Yang, Yun",Duke University,2014,해외박사(DDOD)
+,19,Scalable Methods for Big Time-to-Event Data,"Kawaguchi, Eric Shinya","University of California, Los Angeles",2019,해외박사(DDOD)
+,20,Statistical Inference for Big Data,"Zhao, Tianqi",Princeton University,2017,해외박사(DDOD)
+,21,(A) semantic-based category recommendation system exploiting big data processing technologies,김재익,한양대학교 대학원,2017,국내석사
+,22,Efficient parallel processing of skyline queries for big data,박윤재,서울대학교 대학원,2017,국내박사
+,23,(An) integrated toxicogenomic study using big data analysis for understanding the neurotoxic mechanisms of heavy metal lead = 유해중금속 납의 신경독성기전 이해를 위한 빅데이터 기반의 통합적 독성유전체분석 연구,김여진,Dongguk University,2017,국내박사
+,24,Scalable and Ensemble Learning for Big Data,"Traganitis, Panagiotis",University of Minnesota,2019,해외박사(DDOD)
+,25,ST-Hadoop: A MapReduce Framework for Big Spatio-Temporal Data Management,"Alarabi, Louai",University of Minnesota,2019,해외박사(DDOD)
+,26,A Study on the Convergence of Big Data Platform and Machine Learning for Urban Safety = 도시 안전을 위한 빅 데이터 플랫폼과 기계 학습의 융합에 관한 연구,Sontakke Palash Jayant,부경대학교 대학원,2019,국내석사
+,27,Solution Path Clustering with Minimax Concave Penalty and Its Applications to Noisy Big Data,"Marchetti, Yuliya","University of California, Los Angeles",2014,해외박사(DDOD)
+,28,A Study on Variable Selection Methods with Big Data of Semiconductor Manufacturing Equipment,장재호,서울대학교 대학원,2019,국내석사
+,29,(A) rough set trading system using genetic algorithm based on big data processing of the futures market,김영민,"Graduate School, Yonsei University",2015,국내박사
+,30,Stochastic Predictions of Ore Production in an Underground Limestone Mine Using Big Data from ICT System = 석회석 지하광산 ICT 시스템의 빅데이터를 이용한 광석 생산량의 추계학적 예측,정다희,부경대학교 대학원,2022,국내석사
+,31,Elevating the 4th paradigm : integration of  artificial intelligence and big data into  material informatics for the discovery of  novel advanced materials,"Jaafreh, Russlan",Sungkyunkwan University,2024,국내박사
+,32,Research and Design of Artificial Intelligence Health Management System Based on Big Data = 빅 데이터 기반 인공 지능 건강 관리 시스템 연구 및 설계,유임군,원광대학교 일반대학원,2021,국내박사
+,33,Automatic image and signal recognition modeling software for image and signal recognition using big data and deep learning,"Kang, Minseok",Sungkyunkwan university,2019,국내석사
+,34,Development of machine learning-based model to predict cardiovascular disease in patients at risk using healthcare big data,송신정,"Graduate School, Yonsei University",2024,국내박사
+,35,Design Knowledge Discover and Extractor Analytical Pipeline System for COVID-19 Research Based on Hadoop-Spark Big Data  Frameworks,CAETANO SERGIO PAULO,아주대학교,2023,국내석사
+,36,Big data-based analysis of vaccine and cost-effectiveness to develop optimal influenza national immunization program in the elderly,윤재원,"Graduate School, Korea University",2018,국내박사
+,37,Particle stacking undersampling method for highly imbalanced big data,"Jeon, Yongseok",Sungkyunkwan university,2021,국내석사
+,38,(A) big data study about the characteristics and trends of traumatic injuries in children and adolescents,강승철,서울대학교 대학원,2020,국내박사
+,39,Network-based integration of multi-omics big data and hypothesis generation,김이루,"Graduate School, Yonsei University",2016,국내박사
+,40,Analysis of the relation between land moisture and land surface temperature using big data,"Seong, Kyoung-jin","Graduate School, Yonsei University",2018,국내박사
+,41,Converting neuroimaging big data to information: Statistical frameworks for interpretation of image driven biomarkers and image driven disease subtyping,"Gaonkar, Bilwaj",University of Pennsylvania,2015,해외박사(DDOD)
+,42,CPU-GPU JOB SCHEDULING TECHNIQUE FOR BIG DATA PROCESSING,"Sang, Uijeong",경희대학교 대학원,2019,국내석사
+,43,An Efficient Foundation for Big Data Processing on Modern Clusters,"Borkar, Vinayak","University of California, Irvine",2016,해외박사(DDOD)
+,44,Space-Filling Designs and Big Data Subsampling,"Wang, Lin","University of California, Los Angeles",2019,해외박사(DDOD)
+,45,Determination of transformer capacity using big data-based electricity demand prediction model,한상규,"[Graduate School], Yonsei University",2021,국내박사
+,46,Designing multi-objective patrol ship path planning based on multi-source big data for the marine environment = 해양환경 멀티소스 데이터 기반 다중목적 긴급선박 경로 계획 설계,파테메 누르모함마디,공주대학교 일반대학원,2023,국내석사
+,47,Science in high dimensions: Multiparameter models and big data,"Chachra, Ricky",Cornell University,2014,해외박사(DDOD)
+,48,Flexible Competing Risk Modeling for Big Data from Administrative Records and Disease Registries,"Wu, Wenbo",University of Michigan,2022,해외박사(DDOD)
+,49,Statistical Question and Study Design Development in Middle School Students Using Big Data,"Hedges, Sarai",University of Cincinnati,2019,해외박사(DDOD)
+,50,"(A) Model-based system using renewable energies and building energy consumption prediction models based on big data, power-pinch, and statistics approaches for climate change adaptation",HOANG TUAN VIET,경희대학교 대학원,2019,국내석사
+,51,Textual analysis and macro-finance early  warning system for the Chinese market : how to predict macro-financial risks with the  sentiments from big Data,왕옥영,한양대학교 대학원,2020,국내석사
+,52,Citywide Time-dependent Grid-based Traffic Emissions Estimation and Air Quality Inference Using Big Data,"LI, QING",The University of Wisconsin - Madison,2017,해외박사(DDOD)
+,53,AI and Big Data in Health: Boosting Reliability and Efficiency in Predictive Healthcare Models   [electronic resource],"Wang, Yuqing","University of California, Santa Barbara",2023,해외박사(DDOD)
+,54,Hierarchical Non-Parametric Bayesian Mixture Models and Applications on Big Data,"Yerebakan, Halid Ziya",Purdue University,2017,해외박사(DDOD)
+,55,The study on the digital advertising to targeted visitors based on big data,"Jing, DU",강원대학교 대학원,2022,국내석사
+,56,NoSQL 데이터베이스와 제삼자 빅데이터 솔루션의 효율적인 통합 : Efficient Integration of NoSQL Databases and Third Party Big Data Solution,아론 니치,청주대학교 대학원,2016,국내석사
+,57,(The) Impact of Personalized Recommendation on Purchase Intention under the Background of Big Data : (The) Mediating Effect of Mind-flow Experience and Perceived Trus,신운,목원대학교 대학원,2023,국내박사
+,58,A study on the key factors affecting the adoption of big data analytics for efficient human resource management in Cameroon public service,TAMBEAYUKTAKEM JACOB,숭실대학교 정보과학대학원,2023,국내석사
+,59,On the Performance Evaluation of Big Data Systems,"Pirzadeh, Pouria","University of California, Irvine",2015,해외박사(DDOD)
+,60,Building Big Data Analytics as a Strategic Capability in Industrial Firms: Firm Level Capabilities and Project Level Practices,"Alexander, Dijo T",Case Western Reserve University,2019,해외박사(DDOD)
+,61,Critical factors affecting adoption of big data system for improving public policy making in Ecuador = 에콰도르의 공공정책 수립 개선용 빅 데이터 시스템 도입에 영향을 미치는 핵심 요인 연구,하로 바카실비아 엘리자베쓰,숭실대학교 정보과학대학원,2017,국내석사
+,62,Regulation on the Abuse of Market Dominant Position in Big Data Transaction,"Guo, Han Wen",충북대학교,2019,국내박사
+,63,(A) Rule-based Data Grouping Method for Personalized Log Analysis System in Big Data Computing,김용현,경희대학교 일반대학원,2015,국내석사
+,64,A Study on Policy Agenda Setting using Social Big Data Analytics : Focused on the Case of Seoul National University,김금순,서울대학교 대학원,2019,국내석사
+,65,Studying Factors that Accept Big Data Platform to Improve Maize Production: A Case of Southern Zone in Tanzania,KIGALU MICHAEL FIDELIS,숭실대학교 정보과학대학원,2023,국내석사
+,66,"Development of IoT-based sensors, big data processing, and prediction model for real-time monitoring system in manufacturing industry = 제조 산업의 실시간 모니터링 시스템을 위한 IoT 기반 센서, 빅데이터 프로세싱 및 예측 모델 개발","Syafrudin, Muhammad",Dongguk University,2019,국내박사
+,67,중국 국경간 전자상거래 기업의 전략적 지향점이 국제성과에 미치는 영향에 관한 연구 : 빅데이터 능력과 조직 민첩성을 매개변수로 하여 = A Study on the Impact of Strategic Orientation on International Performance of Chinese Cross-border E-commerce Enterprises: Focusing on the Mediating Effect of Big Data Capability and Organizational Agility,상홍강,우석대학교 일반대학원,2023,국내박사
+,68,A Study on the adoption of  Big Data analysis for  Technical Vocational  Education and Training  (TVET) in Palestine,Afana Kifah N M,숭실대학교 정보과학대학원,2023,국내석사
+,69,Is big data analytics capability enhancing business value and firm performance : Indonesia case,IHSAN MOCHAMAD CHAIRUL,아주대학교 대학원,2019,국내석사
+,70,Adoption of Robotic Process Automation Techniques: Emissions Trading Big Data Crawling System,THAI HONG DANH,한국해양대학교 대학원,2022,국내석사
+,71,(A) study of the big data influence on consumers’ purchase intention,"Lyu, Haoran",Sungkyunkwan University,2022,국내석사
+,72,Trust-based network security enhancement and processing performance optimization for real-time big data processing systems,서승우,"Graduate School, Yonsei University",2022,국내박사
+,73,3D Big data Visual Analytics for Brand Personality : The continuous simulation model based on 3D finite element method,설상훈,성균관대학교 일반대학원,2016,국내박사
+,74,Efficient anf intelligent system design for big data processing and measurement,이세일,"Graduate School, Korea University",2018,국내박사
+,75,A Study on the Factors Affecting Big Data Adoption in Uzbekistan Companies,Nazimov Sarvar,Kumoh National Institute of Technology,2020,국내석사
+,76,A Reference Model for Big Data Analysis in Shipbuilding Industry,Yonghyeok Lee,Graduate School of UNIST,2017,국내석사
+,77,스카이트랙스 온라인리뷰 기반의 빅데이터 분석을 통한 CIS국가(중앙아시아 국가) 항공사와 한국 항공사의 비교 = Comparison between CIS Airlines with Korean Airlines using the Skytrax reviews through the Big Data Analytics,아랄바예바 샤디야르,경성대학교 일반대학원,2020,국내석사
+,78,Research on personal information security in the age of big data,최뢰,한양대학교 대학원,2019,국내석사
+,79,A Proposal on the development methodology and data governance for the implement and operation of big data system in water resources : based on K-water case,신용원,KDI School of Public Policy and Management,2020,국내석사
+,80,SEMANTIC PRESERVATION OF STANDARDIZED HEALTHCARE DOCUMENTS IN BIG DATA,Shujaat Hussain,경희대학교 대학원,2020,국내박사
+,81,Quantitative litigation prediction model based on patent big data to support innovative growth,김영호,"Graduate School, Korea University",2021,국내박사
+,82,A Study on Blockchain Architecture for Big Data Environments = 빅데이터 환경을 위한 블록체인 아키텍처에 관한 연구,키크마툴로,인하대학교 대학원,2024,국내박사
+,83,A study of coffee shop industry through big data analytics: Focused on differences between business types = A study of coffee shop industry through big data analytics: Focused on differences between business types,타오슈팅,경성대학교 일반대학원,2021,국내박사
+,84,Water-energy-carbon nexus based optimal systems and renewable energies assisted sustainable development strategies to tackle climate changes using big data,POUYA IFAEI,경희대학교 대학원,2019,국내박사
+,85,(A) research on the policy making process on the efficient reduction of particulate matter through the analysis on the altering characteristics of floating population based on big data,김봉균,"Graduate School, Yonsei University",2020,국내박사
+,86,System for Efficient Big Data Analytics,"Feng, Boyuan","University of California, Santa Barbara",2022,해외박사(DDOD)
+,87,Exploring big data analytics capabilities of organizations : Big data analytics capability and mature knowledge utilization,이희라,서울대학교 대학원,2020,국내석사
+,88,An Implementation of IoT End-to-end Data Pipeline for Industrial Big Data Platform,SOENG SARAVIT,충북대학교,2022,국내석사
+,89,Big Data-Driven Discovery of Novel Oncogenic Fusion Genes for Anticancer Therapy = 빅데이터 기반의 항암치료를 위한 새로운 타겟 융합유전자 발굴,김두호,서울대학교 대학원,2024,국내석사
+,90,Parallelizing big data processing engines for higher storage utilization,"Lee, Jongbaeg",Sungkyunkwan university,2021,국내박사
+,91,빅데이터 분석을 활용한 크루즈 산업 연구 : 크루자 경험과 만족도 중심으로 = An insight of cruise industry through big data analytics: Focused on cruiser experience and satisfaction,타오 슈팅,경성대학교 일반대학원,2019,국내석사
+,92,빅 데이터의 데이터 수집 방법 연구 = A Study on a Method of Data Collection in Big Data,진효군,우석대학교 일반대학원,2022,국내석사
+,93,Spatiotemporal Big Data Analytics for Future Mobility,"Ali, Reem",University of Minnesota,2019,해외박사(DDOD)
+,94,Assessment of challenges and potentials of Big Data Analytics for SMEs : The Case of Mongolia = 중소기업을위한 빅 데이터 분석의 도전과 잠재력 평가 : 몽골의 사례를 중심으로,바트바야르,서울대학교 대학원,2021,국내석사
+,95,Technology and Pedagogy: Using Big Data to Enhance Student Learning,"Brinton, Christopher Greg",Princeton University,2016,해외박사(DDOD)
+,96,Study on a big data analytic framework using data mining and complex event processing,쉬전순,Korea University,2019,국내박사
+,97,Hotel Online Reviews in Big Data Analytics : :A Comparative Study of Solo Travelers and Non-Solo Travelers,조동석,경성대학교 일반대학원,2018,국내박사
+,98,Toward Practical Application-Aware Big Data Systems,"You, Jie",University of Michigan,2022,해외박사(DDOD)
+,99,Profiling techniques for big data streaming analytics workloads for multicores and the cloud,양신형,"Graduate School, Yonsei University",2022,국내박사
+,100,Secure collaborative machine learning in big data systems,"Xu, Kaihe",University of Florida,2015,해외박사(DDOD)
+,1,Research on several banded toeplitz matrices with perturbations in big data = 빅 데이터에서 섭동을 갖는 밴드형 토플리츠 행렬에 관한 연구,Yunlan Wei,수원대학교,2021,국내박사
+,2,Applications of Sim-hash and Big Data Analysis in SPAM Email Detection System : SIM-HASH와 빅데이터 분석을 이용한 스팸 메일 탐지 시스템,호퍽트란,건국대학교 대학원,2014,국내석사
+,3,(An) investigation of cost-volume tradeoff in big data management,구본영,"Graduate School, Korea University",2015,국내석사
+,4,Land Price Forecasting Research by Macro and Micro Factors and Real Estate Market Utilization Plan Research by Landscape Factors: Big Data Analysis Approach = Land Price Forecasting Research by Macro and Micro Factors and Real Estate Market Utilization Plan Research by Landscape Factors: Big Data Analysis Approach,이상향,한국해양대학교 대학원,2021,국내석사
+,5,Time Estimation and Resource Minimization Scheme for Apache Spark and Hadoop Big Data Systems with Failures = Spark 와 Hadoop Big Data 시스템을 위한 실패를 고려한 작업 시간 예측과 최소 자원 분배 기법 연구,Jin Bae Lee,연세대학교 일반대학원,2019,국내석사
+,6,Spatial Big Data Analytics: Classification Techniques for Earth Observation Imagery,"Jiang, Zhe",University of Minnesota,2016,해외박사(DDOD)
+,7,HyperStream: High Performance Parallel Data Processing System for Big Data = 하이퍼스트림: 빅데이터 분석을 위한 고성능 병렬 처리 시스템,조시원,동국대학교,2012,국내박사
+,8,"Use of ICT and big data in business as a facilitator of export, a cross-country analysis with panel data","He, Yuqi","Graduate School of International Studies, Korea University",2020,국내석사
+,9,Efficient Skyline Query Processing in Big Data using Data Incomparability and Hash Index,"Choi, Jong Hyeok",충북대학교,2021,국내박사
+,10,A-Optimal Subsampling for Big Data General Estimating Equations,"Cheung, Chung Ching",Purdue University,2019,해외박사(DDOD)
+,11,Traffic Congestion Analysis and Prediction based on Big data and Deep Learning Technologies,Navin Ranjan,"Graduate School of Engineering, Incheon Nation University",2021,국내석사
+,12,User Engagement and Effectiveness of Fact-checking News: Evidence from Big Data Analysis and Survey Data = 팩트체크 뉴스의 이용자 관여행위와 효과에 관한 연구: 빅데이터 분석과 서베이 데이터를 중심으로,Han Lin,동국대학교 일반대학원,2023,국내박사
+,13,Two-stage model selection procedure in big data with missing values = 결측이 존재하는 빅데이터 분석에서 선형모형 선택을 위한 두단계 접근법 개발 및 비교,지상아,성균관대학교 일반대학원,2023,국내박사
+,14,Trends of Youth Issues on Social Media and Policy Tasks: Focusing on Social Big Data Analysis from 2003 to 2022 = 소셜미디어에 나타난 청년 이슈의 추이와 정책과제: 2003년부터 2022년까지 소셜 빅 데이터 분석을 중심으로,Binnah Kim,연세대학교 사회복지대학원,2023,국내석사
+,15,"Impact of key factors on the adoption of innovative technologies (internet of things, cloud computing, big data analytics and mobile computing) at firms in Korea = 기업의 혁신기술 수용요소 : 사물인터넷, 클라우드컴퓨팅, 빅데이터, 모바일컴퓨팅 기술을 중심으로","Lee, Jungmin",Yonsei University,2019,국내석사
+,16,Research on Management Strategies of Chinese Education and Training Enterprises under the Background of Epidemic Situation : Analysis of Precision Marketing Strategy Based on Big Data = 중국 교육훈련기업의 경영전략에 관한 연구 -빅테이터 기반의 정밀 마케팅 전략 분석,LIANG GUOKUN,부경대학교 기술경영전문대학원,2022,국내박사
+,17,Big Data-based Network Analysis and Structural Equation Modeling Omni-channel O2O service : Comparison of online-loyalty and offline-loyalty = 빅데이터 기반 네트워크 분석과 구조방정식 모형을 활용한 옴니채널형 O2O 서비스의 소비자 충성도 분석 연구 : online-Loyalty와 offline-Loyalty 비교 분석,이지윤,성균관대학교 일반대학원,2017,국내석사
+,18,Big-data-based novel and advanced biomarker mining focused on specific detection and quantification of pathogenic bacteria,Cho Min Seok,Dankook University,2016,국내박사
+,19,빅데이터 분석을 위한 결측값 대체 기법 = Missing Value Imputation Method For Big Data Analys,여몽,신라대학교 일반대학원,2022,국내석사
+,20,Application of Machine Learning to DEA with Big Data = 빅데이터 DEA를 위한 기계학습의 적용,응위엔투이즈엉,동국대학교 일반대학원,2022,국내석사
+,21,빅데이터를 활용한 항공산업 서비스 품질 분석과 고객 만족에 관한 연구 = A study on the Aviation Service Quality and Customer Satisfaction Using Big Data,이예지,한국항공대학교 일반대학원,2021,국내석사
+,22,Huge big data handling in semiconductor domain : a study on chip level critical test item investigation significant to defect,김진식,한양대학교 공학대학원,2021,국내석사
+,23,Traffic Data On-the-Fly: Image-Based Big Data Analytics for Resilient and Connected Communities,"Karaer, Alican",The Florida State University,2022,해외박사(DDOD)
+,24,SNS 빅데이터를 이용한 '맛집' 관련 네이버 블로그 포스트 네트워크 분석 = Network Analysis of Blog Post related to ‘Matjib’ Using SNS Big Data,최하연,경성대학교 일반대학원,2018,국내석사
+,25,"Optimal ""big data"" aggregation systems -- From theory to practical application","Culhane, William John, IV",Purdue University,2015,해외박사(DDOD)
+,26,고차원 빅데이터를 위한 GPU기반 범위 질의의 병렬화 및 최적화 = GPU based Parallelization and Optimization of Range Query for High-Dimensional Big Data,김민철,인하대학교 대학원,2020,국내박사
+,27,Applications of big data for image processing,"Neralla, Santhoshi Rupa Gayatri",Sungkyunkwan university,2018,국내석사
+,28,Population-based big data analysis and institution-specific data verification of secondary cancer risk according to thyroid cancer in patients with lipid metabolic disease,허준,"Graduate School, Yonsei University",2023,국내박사
+,29,Comparative Study on Restaurant Quality Demand between Before and After the Outbreak of COVID19 Using Big Data and Text Analysis = 빅데이터와 텍스트 분석을 통한 COVID19 발병 전후의 레스토랑 품질 수요 비교 연구,김유경,서울대학교 대학원,2022,국내석사
+,30,Prediction of virtual currency market with social big data and deep learning,김영빈,Korea University,2017,국내박사
+,31,클라우드 컴퓨팅의 이기종 부하 빅데이터 응용에 대한 지능형 리소스 관리 시스템의 연구 = Research on the Intelligent Resource Management System for the Heterogeneous Load in Cloud Computing-based Big Data Applications,백용,목원대학교 대학원,2022,국내박사
+,32,Analysis of Domestic Cause of Death Data Using Big Data Visualization Technique,오래은,이화여자대학교 대학원,2019,국내석사
+,33,아시아 인구집단 유전체 빅데이터 기반 포름알데히드의 독성 생체지표 탐색 = Toxicity Biomarkers Exploration of Formaldehyde based on Genomic Big Data of Asian Population,기남국,동국대학교 일반대학원,2022,국내석사
+,34,APPLICATION OF A BIG DATA PLATFORM FOR BINARY DATA,김표정,국방대학교 국방관리대학원,2019,국내석사
+,35,Strategies to Implement Big Data Analytics in Telecommunications Organizations,"Aneato, Delton",Walden University,2020,해외박사(DDOD)
+,36,다국적 테마파크 관광객 만족에 대한 문화적 비교 : 빅데이터 분석 = A Cross-cultural Comparison on Tourists’ Satisfaction with Multinational Theme Parks: Using Big Data Analysis,최원,전북대학교 일반대학원,2023,국내박사
+,37,An Algorithm Trading System based on Intraday Price Momentum : a Pattern Recognition Approach in Financial Big Data = 장중 모멘텀 기반 알고리즘 트레이딩 시스템: 금융 빅데이터를 활용한 패턴인식 접근법,"Lee, Chun Ju",연세대학교 일반대학원,2019,국내박사
+,38,(A) study on travel time reliability with big data clustering,전현명,"Graduate School, Yonsei University",2020,국내박사
+,39,(A) Bayesian hierarchical model to combine summary statistics from big data and survey sample : an application to electronic health records for estimating total and subgroup prevalence,박민섭,"Graduate School, Yonsei University",2018,국내석사
+,40,Factors Affecting Perception of Artificial Intelligence-based Intelligent Services : Using Big Data Analytics in Mixed-method Approach,손권상,경희대학교 대학원,2022,국내박사
+,41,Penalized Regression-based Statistical Learning Methods to improve Polygenic Prediction for Genomic Big Data = 유전체 빅데이터를 이용한 다유전자성 예측 향상을 위한 벌점화 회귀모형 기반의 통계 학습 방법,조영광,숭실대학교 대학원,2022,국내석사
+,42,A Comparative Study on Mendelian Randomization Methods for Causal Inference in Genomic Big Data,서지은,숭실대학교 대학원,2024,국내석사
+,43,Analyzing the influential factors of the elderly daytime mobility in Seoul : using big data of de facto population in Seoul,김현경,서울대학교 대학원,2020,국내석사
+,44,"Big data analysis using experimental optimization, data mining, and decision making methodology = 실험적 최적화와 데이터마이닝, 의사결정론을 활용한 빅데이터 분석","Solehati, Nita",Chonbuk National University,2015,국내박사
+,45,Big data streaming cloud cluster requirements of augmented reality & smartphone based customer customized real-time advertisement recommendation systems,"Lee, Jemin Justin","Graduate School, Yonsei University",2018,국내박사
+,46,Big data mining and validation study of microRNAs as a potential target for colon cancer prevention,강진욱,전주대학교 대학원,2016,국내석사
+,47,맵리듀스 환경에서 빅데이터 분석을 위한 그리드 기반 조인 질의처리 알고리즘 = Grid-based Join Query Algorithms for Analyzing Big Data on MapReduce Environment,장미영,전북대학교 일반대학원,2016,국내박사
+,48,"Big data analyses on the change in ordering behavior for breast cancer imaging studies, and on the risk of radiation exposure in cardiovascular intervention = 빅데이터 분석을 통한 유방암 영상검사 이용행태 변화 및 심혈관 중재시술 방사선 피폭 위해성 연구",김철한,서울대학교 대학원,2022,국내박사
+,49,Big Data Driven Assessment of Probe-sourced Data,"Ahsani, Vesal",Iowa State University,2019,해외박사(DDOD)
+,50,Improving the Performance of Big Data Analytics Platforms by Task and I/O Granularity Adjustment,Wonbae Kim,Ulsan National Institute of Science and Technology,2023,국내박사
+,51,Reduction of Association Rules for Big Data Sets in Internet of Things,설우식,성균관대학교 일반대학원,2014,국내석사
+,52,VELOXDFS : ELASTIC BLOCKS IN DISTRIBUTED FILE SYSTEMS FOR BIG DATA FRAMEWORKS,Vicente Adolfo Bolea Sanchez,Graduate School of UNIST,2019,국내석사
+,53,Big data in organizations and the role of human resource management : a complex systems theory-based conceptualization,"Scholz, Tobias M.",Peter Lang,2017,해외석사
+,54,"국민건강보험 빅데이터를 이용한 초조기발병 염증성 장질환의 전국 인구 기반 역학 연구 (2005-2016) = Nationwide Population-Based Epidemiologic Study of Very-Early Onset IBD Using Health-Care Big Data, 2005-2016",김영은,울산대학교 대학원,2021,국내석사
+,55,Using big data analysis to measure  service quality of Airbnb,진적문,한양대학교 대학원,2022,국내석사
+,56,3D big data visual analytics for brand personality : the continuous simulation model based on 3D finite element method,"Sul, Sanghun",Sungkyunkwan university,2016,국내박사
+,57,Social big data analytics of consumer choices:  A two sided online platform perspective,"Hejazi Nia, Meisam",The University of Texas at Dallas,2016,해외박사(DDOD)
+,58,(A) big data analysis on chinese soft power during COVID-19 pandemic and its implication on soft power theory,"Kim, Yerin",Sungkyunkwan University,2022,국내석사
+,59,Harnessing Big Data and Machine Learning for Event Detection and Localization,"Yazdi, Amirhessam","University of Nevada, Reno",2022,해외박사(DDOD)
+,60,Automatic Construction of Hangul Tag Cluster Exploiting Big Data Processing Technique and LDA Clustering Algorithm : 빅데이터 처리 기술과 LDA 클러스터링 알고리즘을 이용한 한글 클러스터 자동 구축,Hyung-Rak Jo,한양대학교,2016,국내석사
+,61,"Analyzing Determinants of Urban Vibrancy: A Big Data Approach on Connecting Built Environment, Social Activity, and Images of Places","Chen, Yan",The University of North Carolina at Chapel Hill,2019,해외박사(DDOD)
+,62,"Power, Performance and Scalability for Big Data Query Languages: The Machine Learning Challenge","Wang, Jin","University of California, Los Angeles",2020,해외박사(DDOD)
+,63,Accelerating Reads in Big-Data File Systems via Upward Migration of Cold Data,"Dzinamarira, Simbarashe Joseph",Rice University,2019,해외박사(DDOD)
+,64,Query Language Extensions for Advanced Analytics on Big Data and their Efficient Implementation,"Gu, Jiaqi","University of California, Los Angeles",2019,해외박사(DDOD)
+,65,Cluster Analysis for Big-K Data: Models and Algorithms Based on K-indicators,"Yang, Yuchen",Rice University,2020,해외박사(DDOD)
+,66,Combining Systems Biology and Big Data Analytics to Uncover Metabolic and Environmental Factors in Autism Spectrum Disorder,"Vargason, Troy",Rensselaer Polytechnic Institute,2019,해외박사(DDOD)
+,67,Unlocking Insights : A Comprehensive Big Data Study of Lymphedema patients in Korea = 국내 림프부종 역학 : 빅데이터에 기반한 통찰과 발견,Dong-Jin Kim,고려대학교  대학원,2024,국내석사
+,68,Visualization of Road Utilization based on Big Data Processing of Taxi Trajectory Data,조한나,배재대학교 일반대학원,2019,국내석사
+,69,Observing Quasiparticle Interplay in Topological Quantum Materials: New Analysis Paradigms for Big Data Spectroscopy,"Kotta, Erica",New York University,2022,해외박사(DDOD)
+,70,Determining optimal capacity of waste treatment facilities based on deep learning and spatial big data,김정현,"Graduate School, Yonsei University",2016,국내석사
+,71,"Making Difference with Optimization and Big Data: Topics in Power Grid Visualization, Airline Fleet Assignment and Sports Play Retrieval","Di, Mingyang",Northwestern University,2017,해외박사(DDOD)
+,72,Probing the Health Outcomes in Early Childhood Using Bayesian Data Analysis on Big Data   [electronic resource],"Long, Yanan",The University of Chicago,2023,해외박사(DDOD)
+,73,Selective I/O bypass : Performance-driven dynamic load balancing method for write-through SSD cache in big data analytics,"Kim, Jae-hyung","Graduate School, Yonsei University",2018,국내박사
+,74,Impacts of Online Review Contents on Booking Decision using Text Analytics of Big Data = 빅데이터의 텍스트 분석을 활용한 온라인 리뷰 콘텐츠가 예약 결정에 미치는 영향,심영석,세종대학교 대학원,2021,국내박사
+,75,Optimized method for K-nearest neighbours (KNN) using novel clustering algorithm and big data framework,"Kalvankar, Harsha Suhas",Sungkyunkwan university,2018,국내석사
+,76,Targeted Minimum Loss Based Estimation: Applications and Extensions in Causal Inference and Big Data,"Lendle, Samuel David","University of California, Berkeley",2015,해외박사(DDOD)
+,77,Application of machine learning for prediction of new-onset diabetes mellitus during 5-year follow-up in non-diabetic patients with risks of cardiovascular disease : analysis of big data from electronic medical records of single center = 비 당뇨성 심혈관 질환 의심환자에서 5년 이내 발생 가능한 2형당뇨의 예측을 위한 기계학습 적용 :단일 센터 전자의무기록을 이용한 빅데이터 분석연구,최병걸,Korea University,2018,국내박사
+,78,Intelligent pattern learning based main memory management for boosting graph processing in big data analysis,"Yun, Jitae","Graduate School, Yonsei University",2019,국내석사
+,79,Common areas of senior housing according to distribution of neighborhood amenities based on the big data of de facto population,이도원,"Graduate School, Yonsei University",2022,국내석사
+,80,"New statistical methods and computational tools for mining big data, with applications in plant sciences","Michels, Kurt A",The University of Arizona,2016,해외박사(DDOD)
+,81,"Big data present and future in the developing countries ""Senegal as an example""","Mohamed Mahmoud, Taleb Brahim",Paichai University,2018,국내석사
+,82,Big Data in Financial Economics,"Xue, Lirong",Princeton University,2021,해외박사(DDOD)
+,83,"빅데이터와 머신 러닝 모델을 이용한 COVID-19의 발생률 중증도 사망률에 대한 인플루엔자의 영향 연구 = Study on the effect of influenza on incidence, severity, and mortality of COVID-19 using big data and machine learning models",유연석,전북대학교 일반대학원,2022,국내박사
+,84,빅데이타를 이용하여 베타2 아드레날린 수용체 항진제가 당뇨병 환자의 혈관 합병증에 미치는 영향 분석 = Big data analysis regarding effects of beta2 adrenergic receptor agonists on diabetic vascular complications,이희정,순천향대학교 대학원,2019,국내석사
+,85,Big-data-based novel and advanced biomarker mining focused on specific detection and quantification of pathogenic bacteria = 빅 데이터 기반 신규 바이오 마커를 활용한 병원성 세균의 특이적 진단,조민석,Dankook University,2016,국내박사
+,86,Big data-based network analysis and structural equation modeling omni-channel O2O service : comparison of online-loyalty and offline-loyalty,"Lee, Jiyun",Sungkyunkwan University,2017,국내석사
+,87,"Big data platform-based, anomaly detection system of DDoS attacks","Chae, YoonJoo",Sungkyunkwan university,2017,국내석사
+,88,"Big data platform-based, Anomaly detection system of DDoS Attacks",채윤주,성균관대학교 일반대학원,2017,국내석사
+,89,Machine-Driven Meta-Research: The Application of Big Data Approaches to Map Openness and Transparency in the Biomedical Research Literature,"Serghiou, Stylianos",Stanford University,2020,해외박사(DDOD)
+,90,Harnessing Big Data for the Sharing Economy in Smart Cities,"Shou, Zhenyu",Columbia University,2021,해외박사(DDOD)
+,91,"A big data analysis of Woori-Heukdon, a composite pig breed from Korean native pig, at the molecular level = 재래돼지 활용 합성종, 우리흑돈 집단에 대한 분자학적 수준의 빅데이터 분석","Kim, Yong-Min",강원대학교 대학원,2022,국내박사
+,92,Towards Secure Big Data Computing,"Luo, Changqing",Case Western Reserve University,2018,해외박사(DDOD)
+,93,"Spatial network big data : challenges, approaches, and opportunities","Yang, Kwangsoo",ProQuest LLC,2015,국내박사
+,94,Studying Product Competition and Sequential Targeting Using Big Data and Machine Learning,"Chen, Fanglin",New York University,2022,해외박사(DDOD)
+,95,Reduction of association rules for big data sets in internet of things,"Seol, Woosik",Sungkyunkwan University,2014,국내석사
+,96,The impact of the COVID-19 sentiment on Chinese stock markets : By  employing Weibo Big Data,"YUAN, JIE",이화여자대학교 대학원,2022,국내석사
+,97,Application of big data of service population for measuring community resilience = 지역사회의 재난 복원력 평가를 위한 서비스인구 빅데이터 활용 방안 연구,조형민,Korea Advanced Institute of Science and Technology,2018,국내석사
+,98,"Study on Data acquisition, Big Data Analysis and Machine Learning Prediction Model for rail temperature considering rail direction",박철정,忠南大學校 大學院,2020,국내석사
+,99,Analyzing Social Big Data to Study Online Discourse and Its Manipulation,"Varol, Onur",Indiana University,2017,해외박사(DDOD)
+,100,Pattern recognition in financial big data for real-time intraday similarity of KOSPI200 futures market,변현우,"Graduate School, Yonsei University",2015,국내박사
+,1,Scholarly Communication in the Age of Big Data and Social Media,"Ke, Qing",Indiana University,2018,해외박사(DDOD)
+,2,Modern Classification with Big Data,"Wang, Boxiang",University of Minnesota,2018,해외박사(DDOD)
+,3,Three hierarchical levels of big-data market model over multiple data sources for internet of things = 세 계층으로 나뉘어진 빅데이터 마켓 모델,장부식,Korea Advanced Institute of Science and Technology,2019,국내박사
+,4,Reaping the Rewards of the Big Data Revolution in Ecology,"Graham, Stuart Ian",University of Washington,2021,해외박사(DDOD)
+,5,Transit Ridership Models Using Smart Card Big Data        - The Two-stage Least Squares Method(2SLS) and The Generalized Method of Moments(GMM) Approaches -,이정정,서울시립대학교,2017,국내석사
+,6,Analytics by degree: The dilemmas of big data analytics in lasting university/corporate partnerships,"Cotter, Patricia",University of Pennsylvania,2014,해외박사(DDOD)
+,7,QSAR modeling of dopamine transporter inhibitors using big-data analysis and machine learning,"Lee, Wonyoung",Sungkyunkwan university,2021,국내석사
+,8,Business analytics adoption process and capabilities under big data environment = 빅데이터 환경에서의 비즈니스 애널리틱스 도입 프로세스 및 역량에 관한 연구,남달우,KAIST,2016,국내박사
+,9,On Optimizing LSM-Based Storage for Big Data Management Systems,"Luo, Chen","University of California, Irvine",2020,해외박사(DDOD)
+,10,Automatic construction of Hangul tag cluster exploiting big data processing technique and LDA clustering algorithm,조형락,한양대학교 대학원,2016,국내석사
+,11,Intelligent Energy-Efficient Storage System for Big-Data Applications,"Gong, Yifu",North Dakota State University,2020,해외박사(DDOD)
+,12,"Ensuring security and privacy in big data sharing, trading, and computing",정태호,ProQuest LLC,2017,국내박사
+,13,Improving Cosmological Utility of Type Ia Supernovae through Physics and Big Data,"Siebert, Matthew R","University of California, Santa Cruz",2022,해외박사(DDOD)
+,14,Climate Change and Inequality in the U.S.: Sociological Analyses of Big Data,"Raker, Ethan J",Harvard University,2021,해외박사(DDOD)
+,15,Semi-AI and Full-AI digitizer: the ways to digitalize visual field big data = Semi-AI와 Full-AI Digitizer: 시야 빅데이터를 디지털화 하는 방법,김동민,가톨릭대학교 대학원,2021,국내박사
+,16,Integrated Network Traffic-Mobility Analysis and Modeling Using Big Data,"Alipour, Babak",University of Florida,2019,해외박사(DDOD)
+,17,(The) influence of negative emotions on the helpfulness of online reviews using big data analysis = 빅데이터 분석을 이용한 부정적 감정이 온라인 리뷰 유용성에 미치는 영향에 대한 연구,런강,Pusan National University,2018,국내박사
+,18,(A) study on heuristically-based parametric performance optimization algorithms for big data computing,김종엽,ProQuest LLC,2016,국내박사
+,19,Ontology-based path query processing for relationship finding over semantic big data = 온톨로지 기반 경로 질의처리를 이용한 시맨틱 빅데이터 상의 관계 탐색,정성재,Univ. of Science and Technology,2014,국내박사
+,20,Life path and risk factors analysis of dementia patients using healthcare big data,김민아,"Graduate School, Yonsei University",2022,국내석사
+,21,Integration of DBMS and distributed file system for big data management and analytics = 빅 데이터 관리 및 분석을 위한 DBMS와 분산 파일 시스템의 통합,김준성,KAIST,2015,국내박사
+,22,Care to Share? Investigating Mobility-on-Demand and Other Shared Modes with Big Data and Surveys,"Soria, Jason Malinay",Northwestern University,2022,해외박사(DDOD)
+,23,The Influence of Negative Emotions on the Helpfulness of Online Reviews Using Big Data Analysis = 빅데이터 분석을 이용한 부정적 감정이 온라인 리뷰 유용성에 미치는 영향에 대한 연구,임강,부산대학교,2018,국내박사
+,24,PCMR : an enhanced parallel computing mapreduce framework for big data processing in cloud environment = PCMR : 클라우드 환경에서의 빅데이터 처리를 위한 개선된 병렬 컴퓨팅 맵리듀스 프레임워크,"Al-Absi, Ahmed Abdulhakim",Dongseo University,2016,국내박사
+,25,Research on the AHP-based customer value index by using big data : focused on the casino industry,박병용,"Graduate School, Yonsei University",2016,국내박사
+,26,The studies on early and late psychosis  with big data analysis,함수지,과학기술연합대학원대학교,2022,국내박사
+,27,Scaling Up the Performance of Distributed Key-Value Stores Using Emerging Technologies for Big Data Applications,"Eldakiky, Hebatalla",University of Minnesota,2021,해외박사(DDOD)
+,28,What Tweets and Retweets on Twitter Can Tell for the Restaurant Industry: A Big-Data Approach,"Wang, Xi",Iowa State University,2020,해외박사(DDOD)
+,29,Evaluation of changes in anesthetic methods for cesarean delivery: An analysis for 5 years using the big data of the Korean Health Insurance Review and Assessment Service,박지인,충북대학교,2021,국내석사
+,30,"Association of amyloid PET positivity with magnitude, variability and change pattern of body mass index using longitudinal big data = 대용량 종단자료를 활용한 체질량지수와 아밀로이드 PET 양성률간의 연관성 분석",김종혁,성균관대학교 일반대학원,2021,국내석사
+,31,Cloud Resource Management for Big Visual Data Analysis from Globally Distributed Network Cameras,"Mohan, Anup",Purdue University,2017,해외박사(DDOD)
+,32,Statistical Learning Methods for Big Biomedical Data,"Li, Ziyi",Emory University,2018,해외박사(DDOD)
+,33,Towards efficient processing of big spatial data,"Aly, Ahmed M",Purdue University,2015,해외박사(DDOD)
+,34,A Benchmark for Distributed Storage Engines in Big Spatial Data Processing based on Apache Sedona,신한섭,서울과학기술대학교,2021,국내석사
+,35,Deep Learning Toward Psychiatric Disorder and Psychopathology Spectra in the Era of Big Neuroimaging Data = 딥러닝을 활용한 정신질환과 정신병리 스펙트럼에 대한 뇌영상 빅데이터 기반의 연구,홍진우,고려대학교 대학원,2022,국내석사
+,36,A mixed integer linear programming-based piping plan for automatic chemical plant design in big sized data = 빅데이터에서 화학 플랜트 자동 설계를 위한 혼합 정수 선형 계획법 기반 배관 계획,Gyeong Tae Kim,충북대학교 일반대학원,2024,국내석사
+,37,"Social Influence and Big Social Media Data Mining: Exploration, Modeling, and Application in Transportation","Chen, Ying",Northwestern University,2015,해외박사(DDOD)
+,38,Kernel Methods in the Analysis of Big and Complex Data: A Modern Statistical Challenge,"Zhou, Hao Henry",The University of Wisconsin - Madison,2019,해외박사(DDOD)
+,39,BIG-SAVE : An Extension of Sliced Average Variance Estimation to Massive Data,이경진,이화여자대학교 대학원,2023,국내석사
+,40,"High energy physics from 10 billion years' worth of data: Learning new physics from the Big Bang, stars and cosmic rays","Postma, Marieke","University of California, Los Angeles",2002,해외박사(DDOD)
+,41,Comparative analysis of microarray data for Schwann cell study between the virtual and the real : Big data analysis,SHEFA ULFUARA,경희대학교 대학원,2018,국내석사
+,42,Comparative Analysis of Microarray Data for Microglial Cell Study between the Virtual and the Real : Big Data Analysis = 기존 미세아교세포 마이크로어레이 결과의 비교 분석 연구,루바이야 타바썸,동아대학교 대학원,2019,국내석사
+,43,Toward the Effective Management of Data Uncertainty through the Exploitation of Spatial Relationships,"Larusso, Nicholas D","University of California, Santa Barbara",2013,해외박사(DDOD)
+,44,Efficient Inference for High Dimensional Data Under Physical and Human Constraints,"Hunt, Xin Jiang",Duke University,2017,해외박사(DDOD)
+,45,Handling missing data in high-dimensional subspace modeling,"Balzano, Laura Kathryn",The University of Wisconsin - Madison,2012,해외박사(DDOD)
+,46,Topology optimization for aggregation in data center networks,"Dos, Soham",University of Florida,2016,해외박사(DDOD)
+,47,Submodular Optimization and Data Processing,"Wei, Kai",University of Washington,2016,해외박사(DDOD)
+,48,Data Mining Meets HCI: Making Sense of Large Graphs,"Chau, Duen Horng (Polo)",Carnegie Mellon University,2012,해외박사(DDOD)
+,49,Data-based Analysis and Control for Nonlinear Dynamical Systems,"Wang, Zhuo",University of Illinois at Chicago,2013,해외박사(DDOD)
+,50,Health Data Analytics: Data and Text Mining Approaches for Pharmacovigilance,"Liu, Xiao",The University of Arizona,2016,해외박사(DDOD)
+,51,Transformation Methods for Density Functions and Covariance Matrices in Functional Data Analysis,"Petersen, Alexander Maurice","University of California, Davis",2016,해외박사(DDOD)
+,52,Similarity Search in Visual Data,"Cherian, Anoop",University of Minnesota,2013,해외박사(DDOD)
+,53,The Analysis of Adaptive Data Collection Methods for Machine Learning,"Jamieson, Kevin",The University of Wisconsin - Madison,2015,해외박사(DDOD)
+,54,Fundamental Limits in Data Privacy: From Privacy Measures to Economic Foundations,"Wang, Weina",Arizona State University,2016,해외박사(DDOD)
+,55,Algorithmic and software system support to accelerate data processing in CPU-GPU hybrid computing environments,"Wang, Kaibo",The Ohio State University,2015,해외박사(DDOD)
+,56,An Interactive Design Framework Based on Data-Intensive Simulations: Implementation and Application to Device-Tissue Interaction Design Problems,"Lin, Chi-Lun",University of Minnesota,2015,해외박사(DDOD)
+,57,A user-driven annotation framework for scientific data,"Li, Qinglan",University of Pittsburgh,2013,해외박사(DDOD)
+,58,Achieving Efficient I/O with High-Performance Data Center Technologies,"Conley, Michael Aaron","University of California, San Diego",2015,해외박사(DDOD)
+,59,Some Statistical Methods for Joint Analysis of High-dimensional Genomics Data,"Li, Cong",Yale University,2015,해외박사(DDOD)
+,60,Data-Driven Methods for Improved Estimation and Control of an Urban Arterial Traffic Network,"Anderson, Leah Adrian","University of California, Berkeley",2015,해외박사(DDOD)
+,61,Optimization Techniques for Data Analytics,"Wong, Ming Fai Felix",Princeton University,2015,해외박사(DDOD)
+,62,An Efficient Model of  Graph Data Visualization  based on JavaScript,Deng Qinghua,건국대학교 대학원,2014,국내석사
+,63,"Design, Data Collection, and Driver Behavior Simulation for the Open-Mode Integrated Transportation System (OMITS)","Wang, Liang",Columbia University,2016,해외박사(DDOD)
+,64,Revisiting Aggregation Techniques for Data Intensive Applications,"Wen, Jian","University of California, Riverside",2013,해외박사(DDOD)
+,65,Architecture Design and Management for Data Center Networks,"Chen, Kai",Northwestern University,2012,해외박사(DDOD)
+,66,On convex optimization methods for fitting spatial statistical models to large data sets,"Davanloo Tajbakhsh, Sam",The Pennsylvania State University,2015,해외박사(DDOD)
+,67,Statistical Analysis of Complex Data: Bayesian Model Selection and Functional Data Depth,"Narisetty, Naveen Naidu",University of Michigan,2016,해외박사(DDOD)
+,68,Projection algorithms for large scale optimization and genomic data analysis,"Keys, Kevin Lawrence","University of California, Los Angeles",2016,해외박사(DDOD)
+,69,(The) Incidence and risk factor of adhesive capsulitis of shoulder after breast cancer surgical treatement : a National data-based study,오현근,한양대학교 대학원,2021,국내박사
+,70,Mathematical and Algorithmic Analysis of Network and Biological Data,"Tsourakakis, Charalampos E",Carnegie Mellon University,2013,해외박사(DDOD)
+,71,Discovering the core of experiential education: How Big Picture school students learn through internships,"Riordan, Margaret A",New York University,2006,해외박사(DDOD)
+,72,Health information seeking behavior of rural consumers in the Big Bend region of west Texas,"Ortego, Gilda Baeza",Texas Woman's University,2001,해외박사(DDOD)
+,73,Multicultural-world music education and music teacher education at the Big Ten schools:  Identified problems and suggestions,"Miralis, Yiannis Christos",Michigan State University,2002,해외박사(DDOD)
+,74,Functional principal component and factor analysis of spatially correlated data,"Liu, Chong",Boston University,2014,해외박사(DDOD)
+,75,Efficient query processing for data integration,"Ives, Zachary George",University of Washington,2002,해외박사(DDOD)
+,76,Utilizing Color for Perceptually-Driven Data Visualization,"Szafir, Danielle Nicole Albers",The University of Wisconsin - Madison,2015,해외박사(DDOD)
+,77,Aggression and the big five personality factors of grades and attendance,"Barthelemy, Juan J",The University of Tennessee,2005,해외박사(DDOD)
+,78,Maneuver Detection and Reconstruction in Data Sparse Systems with an Optimal Control Based Estimator,"Lubey, Daniel P",University of Colorado at Boulder,2015,해외박사(DDOD)
+,79,"An investigation of the construct validity of the Big Five construct of emotional stability in relation to job performance, job satisfaction, and career satisfaction","Cook, Vivian D",The University of Tennessee,2005,해외박사(DDOD)
+,80,Collaborative Design Informatics: Leveraging Data to Make Design Teams Better,"Fuge, Mark Darryl","University of California, Berkeley",2014,해외박사(DDOD)
+,81,"""Let us make man"":  The development of Black male (student)-athletes in a big-time college sport program","Singer, John Nathaniel",The Ohio State University,2002,해외박사(DDOD)
+,82,Bowling alone in a big small city:  Re-examining the relationship between social capital and mass media use (Kansas),"Raicheva, Maria",Southern Illinois University at Carbondale,2005,해외박사(DDOD)
+,83,A survey to assess the technology literacy of undergraduate music majors at Big-10 universities:  Implications for undergraduate courses in music education technology,"Meltzer, Jason Charles",University of Illinois at Urbana-Champaign,2001,해외박사(DDOD)
+,84,Algorithmic Challenges in Green Data Centers,"Lin, Minghong",California Institute of Technology,2013,해외박사(DDOD)
+,85,Analyzing and Processing Big Real Graphs,"Zhao, Xiaohan","University of California, Santa Barbara",2014,해외박사(DDOD)
+,86,"Odds of Cesarean Section, Childbirth Outcomes and Public Policy: An Empirical Study Using the Matched New York State Data","Yu, Cong",State University of New York at Albany,2016,해외박사(DDOD)
+,87,Big men and ballots The effects of traditional leaders on elections and distributive politics in Zambia,"Baldwin, Kate",Columbia University,2010,해외박사(DDOD)
+,88,Asian international doctoral students' assimilation into adapted physical activity graduate programs while attending predominantly White institutions of higher education within the Big Ten Conference,"Sato, Takahiro",The Ohio State University,2007,해외박사(DDOD)
+,89,"Big dots, small schools:  The ways two elementary schools homogenize pedagogy to raise their high-stakes assessment scores","Orthober, Corrie Rebecca",University of Kentucky,2005,해외박사(DDOD)
+,90,Developing big ideas:  The transformation of identity within a community of practice,"Klein, Brock Martin","University of California, Los Angeles",2000,해외박사(DDOD)
+,91,A CMB foreground study in WMAP data: Extragalactic point sources and zodiacal light emission,"Chen, Xi","University of California, Los Angeles",2009,해외박사(DDOD)
+,92,"Essays on the economics of transition : why is ""big bang"" implosive in output and explosive in prices, while controlled marginal reform isn't?   [microform]","Li, Wei",University of Michigan,1994,해외박사
+,93,Educational funding in Michigan since 1994:  How did the big winners spend the money?,"Emerson, Bert",Michigan State University,2005,해외박사(DDOD)
+,94,Semantic-Aware Data Management for Data-Driven Applications = 데이터 중심 응용프로그램에서의 의미론적 데이터관리 기법,이계원,서울대학교 대학원,2022,국내박사
+,95,Collaborative Discovery of Data Analytics Opportunities for Smart Manufacturing = 스마트 제조를 위한 데이터 분석 기회 협업 탐색 방법론,박현섭,포항공과대학교 대학원,2021,국내박사
+,96,Regional Planning for Island Destinations in Application of Text Data Mining: Targeting Bali and Lombok Island of Indonesia = 텍스트마이닝(Text Mining)기법을 응용한 섬지역 개발 방법 연구: 인도네시아 발리섬과 롬복섬을 대상으로,박재아,서울대학교 대학원,2023,국내석사
+,97,(A) data-driven analysis of antisocial comments in online news communities,"Jeong, Yoo-kyung","Graduate School, Yonsei University",2017,국내박사
+,98,Resource Management for Advanced Data Analytics at Large Scale,"Zhang, Haoyu",Princeton University,2018,해외박사(DDOD)
+,99,"Heterogeneous graphs versus multimodal content: Modeling, mining, and analysis of social network data","Chelmis, Charalampos",University of Southern California,2013,해외박사(DDOD)
+,100,Research on Edible Insects as an Alternative Food Source through Data Science Approach : Text mining for Perception Survey and Protein Solubility Prediction Machine Learning Models = 데이터과학적 접근의 식용 곤충 연구: 텍스트 마이닝 활용 인식조사와 단백질 용해도 예측모델 구축,Kyungmo Kang,고려대학교  대학원,2024,국내박사
+,1,New Machine Learning Models for Data Mining Ecosystem,TRAN DUY THANH,한국해양대학교 대학원,2023,국내박사
+,2,A Study on Policy Framework for Data Management in the Science and Technology Sector of Ethiopia,Meron Kifelew Melkamu,부산대학교 대학원,2019,국내석사
+,3,(A) study on efficient data analysis using machine learning and deep learning algorithms,"Nikitha, Johnsirani Venkatesan",Sungkyunkwan university,2020,국내박사
+,4,Performance prediction model for data-parallel workload in distributed processing environment,명노영,"Graduate School, Korea University",2021,국내박사
+,5,MRTARM: MapReduce-based Temporal Association Rule Mining in Web Log Data,"Yu,Xiuming",충북대학교,2016,국내박사
+,6,Factors affecting data-based policy making in Mongolia : Focus on the role of transformational leadership,"Ulaankhuu, Narantuya",Sungkyunkwan University,2023,국내석사
+,7,Data-driven Decision Making with Dynamic Learning Under Uncertainty: Theory and Applications,"Li, Yuexing",Duke University,2022,해외박사(DDOD)
+,8,New Approaches to Constructing and Evaluating Data Subsamples for Large and Dynamic Data Structures,"Davis, Ethan Michael",North Carolina State University,2022,해외박사(DDOD)
+,9,(An) analysis of regional characteristics according to city safety related key words shown in Twitter data : focusing on Seoul 10 districts,왕정갑,"Graduate School, Yonsei University",2015,국내석사
+,10,Personal Physical Activity Time series data analysis research based on wearable sensor of lung cancer patients. = 웨어러블 센서를 착용한 폐암환자의 개인 운동량 시계열 데이터 분석 연구,박기혁,성균관대학교 일반대학원,2017,국내석사
+,11,Data-Driven Cyber-Physical Systems via Real-Time Stream Analytics and Machine Learning,"Akkaya, Ilge","University of California, Berkeley",2016,해외박사(DDOD)
+,12,Explainable Artificial Intelligence for Spatiotemporal Data Analysis,박훈석,경희대학교 대학원,2022,국내박사
+,13,A Software Architectural Design for Automated Data Processing in Data-Intensive Software Systems,"Hakeem, Mazin",University of Colorado at Boulder,2019,해외박사(DDOD)
+,14,Maritime Data Analytics Using Explainable Artificial Intelligence for Energy-Efficient Shipping and Condition Monitoring of Marine Equipment = 설명가능한 인공지능 기반 해양 데이터 분석을 통한 에너지 효율적 선박 운항 및 해양 장비 상태 모니터링,HANDAYANI MELIA PUTRI,국립부경대학교 대학원,2024,국내박사
+,15,PROACTIVE MAINTENANCE FOR EVOLVING LINKED DATA USING CHANGE-AWARE QUERY CACHING,USMAN AKHTAR,경희대학교 대학원,2021,국내박사
+,16,Data-driven Design Approaches for Vehicle Specification Changes,이민구,서울대학교 대학원,2020,국내박사
+,17,Data-driven machine learning approaches to detect unexpected data using limited data,김영환,"School of Cybersecurity, Korea University",2022,국내박사
+,18,A Study on visual art interaction phenomenon based on data core drive = 데이터 코어 드라이브 기반 시각예술 인터렉션 현상에 관한 연구,채연,동방문화대학원대학교,2024,국내박사
+,19,"동기 부여된 매개 메시지 처리에 있어서 제한된 용량 모델 (LC4MP)의 인터랙티브 데이터 저널리즘 적용 : 시선추적 연구 = Applying the Limited Capacity Model of Motivated Mediated Message Processing (LC4MP) to the Interactive Data Journalism,An Eye-tracking Study",한정,경성대학교 일반대학원,2022,국내박사
+,20,Data compression and quality management techniques for wide-area monitoring systems via data mining approaches,이결,"Graduate School, Yonsei University",2023,국내박사
+,21,Implementation and application of semantic network analysis support system for social media data,송종휘,"Graduate School, Yonsei University",2023,국내박사
+,22,Dependable Infrastructure for Data Market Based on Trusted Execution Environments,"Lee, Seung Ho",고려대학교 정보보호대학원,2021,국내박사
+,23,Data Chef: Study on User Custom Data Service Model for Improving Data Service Reliability,김윤곤,경희대학교 일반대학원,2016,국내석사
+,24,데이터 과학자에게 필요한 스킬과 지식에 관한 연구 : Requisite Skills and Knowledge of Data Scientists: Content Analysis of Internet Job Advertisements :인터넷 구인광고 내용 분석 중심으로,김존요한,계명대학교 대학원,2014,국내박사
+,25,Data-driven Approach for the Development of a Finite Element Model for Composite Thin-walled Beam,신동일,서울대학교 대학원,2019,국내박사
+,26,Exploring data curation work in a national clinical registry: A case study of the CathPCI RegistryRTM,"von Eberstein, Alison M",The Florida State University,2016,해외박사(DDOD)
+,27,Statistical Estimation and Inference for Large-Scale Categorical Data,"Li, Chengcheng",University of Michigan,2022,해외박사(DDOD)
+,28,Complex Data Processing with Novel Memristor Array = 참신한 멤리스터 어레이를 이용한 복잡한 데이터 처리,장윤호,서울대학교 대학원,2023,국내박사
+,29,Using XAI to support machine learning classification in financial imbalanced data,류혜선,"Graduate School, Yonsei University",2024,국내박사
+,30,Protecting Data Privacy with Decentralized Self-Emerging Data Release Systems,"Li, Chao",University of Pittsburgh,2019,해외박사(DDOD)
+,31,Location-based Data Integration for Unified Information Management in Construction Projects = 건설프로젝트의 통합 정보 관리를 위한 위치 기반 데이터 연계,이지원,서울대학교 대학원,2024,국내석사
+,32,Effective Data Acquisition for 4th Industrial Revolution,김천용,忠南大學校 大學院,2019,국내박사
+,33,Using data replication to improve data accessibility in vehicular Ad-hoc networks,박성진,"Graduate School, Korea University",2013,국내석사
+,34,LAPUTA:Secure Data Analytics using Secret Data with Fine-grained Policy Enforcement = LAPUTA:세밀한 데이터 사용정책 강제를 활용한 안전한 기밀 데이터 분석,김병욱,서울대학교 대학원,2024,국내석사
+,35,A Data- Based Assessment of Mobile Network Service Quality in Ghana,KOMEYNII AYITEY,숭실대학교 정보과학대학원,2023,국내석사
+,36,Auditory data pattern analysis for differential diagnosis of hidden hearing loss,김민곤,한양대학교 대학원,2021,국내석사
+,37,Designing high-performance and scalable heterogeneous storage systems for data-intensive computing,"Song, Yongju",Sungkyunkwan University,2023,국내박사
+,38,대용량 센서 시그널을 위한 분산 데이터마이닝 기반 스파스 자동회귀 그룹 라소 = Sparse autoregressive-group lasso with distributed data mining for large-scale sensor signal,김지현,한양대학교 대학원,2018,국내석사
+,39,클라우드 컴퓨팅의 데이터 보안 분석 : Analysis of Data Security in Cloud Computing = Analysis of Data Security in Cloud Computing,Naranbaatar Ankhbayar,동국대학교,2019,국내석사
+,40,Architecture for Managing and Analyzing Data of Hadoop-based Mobile App : 하둡 기반 모바일 앱의 데이터 관리 및 분석을 위한 아키텍처,장정란,숭실대학교 일반대학원,2013,국내석사
+,41,Transfer Learning of Fully Connected Neural Networks for Functional Magnetic Resonance Imaging Data : evaluations using a large public dataset and a small local dataset = 기능성 자기공명영상 데이터에 완전 연결된 신경망 기반 전이학습 적용: 대량의 공공 데이터셋 및 소량의 로컬 데이터셋을 활용한 검증,"Hwang, Jun Dong",고려대학교 대학원,2023,국내석사
+,42,Generating Configuration file for ETL of data using Data Ingestion Tools in IoT = IoT환경에서 데이터 수집 도구에서의 ETL을 위한 설정 파일 생성 방법,하마드,숭실대학교 대학원,2020,국내석사
+,43,Space-efficient Representation of Semi-structured Document Formats Utilizing Succinct Data Structures = 간결한 자료구조를 활용한 반구조화된 문서 형식들의 공간 효율적 표현법,이준희,서울대학교 대학원,2021,국내박사
+,44,Analyzing and Classifying Factors for Desired Target Feature Utilizing Driving Data = 하이브리드 차량 주행 데이터 분류 및 분석을 통한 설정한 타겟 데이터 관련 핵심 인자 추출 방법론,장성현,서울대학교 대학원,2021,국내석사
+,45,Application and evaluation of a common data model to multicenter workers' health examination data,심주호,"Graduate School, Yonsei University",2023,국내박사
+,46,Efficient updates of linked data views in stream processing,"Chun, Sejin","Graduate School, Yonsei University",2018,국내박사
+,47,New methods for finding significant gene modules using emerging biological data,김정림,"Graduate School, Yonsei University",2019,국내박사
+,48,(A) Review of TLS 3D point cloud data for determining structure geometry,"칼루파드, 마크 조셉",동아대학교 대학원,2023,국내석사
+,49,Advanced Clustering Methods and Applications for Data Visualization,"Wu, Bo",Auburn University,2018,해외박사(DDOD)
+,50,Quantifying Equity and Equity Biases in Transportation and Data   [electronic resource],"Ricord, Samuel",University of Washington,2023,해외박사(DDOD)
+,51,Cost-effective cloud data processing,"Lang, Willis",The University of Wisconsin - Madison,2012,해외박사(DDOD)
+,52,Development of a data-driven methodology for design of new service concepts for personal vehicle operations management = 데이터 기반의 개인 차량 운행 지원 서비스 컨셉 설계 방법론 개발,김민준,Pohang University of Science and Technology,2017,국내박사
+,53,(The) perception of privacy data usage and the potentials of data market formation in smart city : focused on health and medical data,주지현,"Graduate School, Yonsei University",2022,국내박사
+,54,"Generalized Plot Matrices, Automatic Cognostics, and Efficient Data Exploration","Schloerke, Barret",Purdue University,2017,해외박사(DDOD)
+,55,Integrating Quantitative and Qualitative Data with Deep Learning for Company Recommendations = 딥러닝 기반 양적 및 질적 데이터 결합을 활용한 회사 추천,조성지,서울대학교 대학원,2024,국내석사
+,56,High-performance cloud data management,"Floratou, Avrilia",The University of Wisconsin - Madison,2013,해외박사(DDOD)
+,57,Exploring the methods of transforming unstructured data into structured data and their impact on a churn prediction model,정훈,"Graduate School, Yonsei University",2020,국내박사
+,58,Edge Cloud Based Sensor Data Processing Optimization Method,홍기대,경희대학교 대학원,2023,국내석사
+,59,Logic Imitating Approach based on Data-driven Model for Image Classification : Data-driven model 기반 영상분류를 위한 논리 모방 접근법,정유수,경북대학교 대학원,2019,국내박사
+,60,Modeling Dependence in Large and Complex Data Sets,"Zhang, Chao","University of California, Santa Barbara",2022,해외박사(DDOD)
+,61,Development and Roadmapping of Smart Service Systems Using Data-driven and User Innovation Approach,한민탁,서울대학교 대학원,2019,국내박사
+,62,Statistical Analysis of Large Scale Data with Perturbation Subsampling,"Yao, Yujing",Columbia University,2022,해외박사(DDOD)
+,63,Tools and theory to improve data analysis,"Grolemund, Garrett",Rice University,2012,해외박사(DDOD)
+,64,SEMANTIC SEQUENCE CONTRACTION AND EXPANSION FOR DATA INTEROPERABILITY,Fahad Ahmed Satti,경희대학교 대학원,2023,국내박사
+,65,Design and implementation of multi-modal data acquisition system for behavioral analysis of livestock,박기철,중앙대학교 대학원,2022,국내석사
+,66,"Deep learning for electric load data analytics : forecasting, feature extraction, and missing imputation = 전력 데이터 분석을 위한 딥 러닝 : 수요 예측, 부하 특징 분석과 결측 처리",류승형,서강대학교,2020,국내박사
+,67,Distribution-based Summarization for Large Scale Simulation Data Visualization and Analysis,"Wang, Ko-Chih",The Ohio State University,2019,해외박사(DDOD)
+,68,Acquisition and utilization of private data for mobile app success,常珮珮,"Graduate School, Korea University",2022,국내석사
+,69,Development of influenza surveillance model based on internet search query and social media data,우혜경,서울대학교 보건대학원,2015,국내박사
+,70,Predicting COVID-19 Severity on Time-course Clinical Data using LSTM : LSTM을 이용한 시계열 임상 데이터 기반 COVID-19 중증도 예측,김동희,경북대학교 대학원,2023,국내석사
+,71,(A) study on the radiation toxicity prediction by using data mining and artificial intelligence,김광현,Korea University,2018,국내박사
+,72,A Study on the establishment of autonomous operation system for data-based water purification facilities,박대원,KDI School of Public Policy and Management,2021,국내석사
+,73,Edge Cloud Services to Improve Cloud Efficiency in IoT Data Analysis,박치원,경희대학교 대학원,2023,국내석사
+,74,Semantic Keyword Search on Large-Scale Semi-Structured Data,"Shan, Yi",Arizona State University,2016,해외박사(DDOD)
+,75,Fast and Memory-Efficient Subspace Embeddings for Tensor Data with Applications,"Zare, Ali",Michigan State University,2022,해외박사(DDOD)
+,76,Probabilistic prediction on structural responses of cable-stayed bridges using data-driven approaches,Minsun Kim,Ulsan National Institute of Science and Technology,2024,국내박사
+,77,Development of artificial intelligence applied drug physicochemical property prediction program: comparative verification between actual data and AI-predicted data in various model drugs = 인공지능을 활용한 약물의 물리화학적 특성 예측 프로그램의 개발 : 다양한 모델 약물에서 실제데이터와 AI 예측데이터의 비교검증,Jung Eun-A,국민대학교 일반대학원,2023,국내석사
+,78,MKB-Tree: A B-Tree Based Spatial Index for Mobile LBS Real-Time Data Stream in NoSQL Database,오택군,인하대학교 대학원,2012,국내석사
+,79,Elucidating the Physiological and Genomic Underpinnings of Lipid-Related Metabolic Disorders and Leveraging Farm Data Streams to Predict Disorder Cases,"Pralle, Ryan Selz",The University of Wisconsin - Madison,2020,해외박사(DDOD)
+,80,A study on methodology for trend analysis and technology forecasting using unstructured patent data and natural language processing : focused on case of biopharmaceutical field,김시우,차의과학대학교 일반대학원,2022,국내석사
+,81,Federated augmentation : how to fill missing data for on-device machine learning,정은정,"Graduate School, Yonsei University",2020,국내석사
+,82,Design domain-adaptive generative performance optimization using designable data augmentation,강민성,"Graduate School, Yonsei University",2021,국내석사
+,83,Data-driven sensitivity analysis using residual bootstrap via SVR,이재훈,한양대학교 대학원,2022,국내박사
+,84,Deep Learning-Based Approaches for High-Dimensional Clinical and Genetic Data,"Mi, Xinlei",University of Florida,2018,해외박사(DDOD)
+,85,Data Quality Assessment Applied in the Internet of Things = IoT 데이터 품질 평가,"Zhang, Lina",군산대학교,2023,국내박사
+,86,Data-driven diagnostics and prognostics methodology for smart manufacturing,유영지,Korea University,2019,국내박사
+,87,Data-driven material design methodologies by high-throughput screening and machine learning,"Yeo,  Byungchul","Graduate School, Yonsei University",2018,국내박사
+,88,DDAD framework for designing data-driven subscription-based servitization experience scenarios : focus on refrigerators and F&B subscription,"Chae, Ina",Sungkyunkwan University,2023,국내박사
+,89,"Improving Data Science Team Performance via the Use of a Kanban Process Framework that has Enhanced Mentoring, Coaching and Metrics Utilization","Shamshurin, Ivan",Syracuse University,2019,해외박사(DDOD)
+,90,Hybrid modeling of copulas and linear mixed effects for longitudinal data,유천천,중앙대학교 대학원,2020,국내석사
+,91,"Statistical Estimation and Inference for Distributed, Online Streaming, and Adaptively Collected Data","Li, He",New York University,2023,해외박사(DDOD)
+,92,Machine Learning Toolbox and PCA Visualization for Data-Driven PHM,Sunhee Woo,Graduate School of UNIST,2017,국내석사
+,93,Non-stationary text data analysis with convolutional neural network and incremental clustering,"Kwak, Juen","Graduate School, Yonsei University",2018,국내박사
+,94,Representation Learning for Biological Sequence Data = 생물학적 서열 데이터에 대한 표현 학습,민선우,서울대학교 대학원,2021,국내박사
+,95,Hardware Acceleration to Address the Costs of Data Movement,"Valavi, Hossein",Princeton University,2020,해외박사(DDOD)
+,96,On Directional Regression Approach for Right-Censored Survival Data Analysis,김세은,이화여자대학교 대학원,2024,국내석사
+,97,Effects of public transportation infrastructure and services on individual travel behavior using a data-driven approach,공재형,"Graduate School, Yonsei University",2022,국내석사
+,98,Application of Domain-Specific Language Processing for Medical and Chemical Text Data Analysis = 의료 및 화학 텍스트 데이터 분석을 위한 도메인 특화 언어 처리의 활용,Sunho Choi,고려대학교  대학원,2024,국내박사
+,99,Innovative Ultrasonic Nondestructive Testing Based on the Integration of Data Processing and Neural Networks = 데이터 처리 및 신경망 통합을 기반으로 한 혁신적인 초음파 비파괴 검사,Azamatjon Kakhramon ugli Malikov,부산대학교,2023,국내박사
+,100,Clinical outcomes and systemic complications related to the severity and etiology of status epilepticus using  the common data model,박진,이화여자대학교 대학원,2022,국내박사
+,1,(An) exploratory and empirical study of competitive market structure by using Google trends data,심우찬,"Graduate Scool, Korea University",2016,국내석사
+,2,Development of an arterial wave simulation system integrating blood flow-tissue and implementation of simulation data-driven deep learning algorithm = 혈류-조직 통합 동맥파 시뮬레이션 시스템 및 이를 활용한 딥러닝 알고리즘 개발,EuiCheol Jung,강원대학교 대학원,2021,국내박사
+,3,Data-driven approaches to improve dependability of cloud services,"Potharaju, Rahul",Purdue University,2014,해외박사(DDOD)
+,4,Data-Driven Studies of Transient Events and Aperiodic Motions,"Wang, Rui","University of Maryland, College Park",2019,해외박사(DDOD)
+,5,Data Science in Scanning Probe Microscopy: Advanced Analytics and Machine Learning,"Dusch, William",The Pennsylvania State University,2019,해외박사(DDOD)
+,6,Bayesian Models for High-Dimensional Discrete Multivariate Data,"Hauser, Paloma A",The University of North Carolina at Chapel Hill,2023,해외박사(DDOD)
+,7,Data epistemologies / surveillance and uncertainty,"Hong, Sun ha",University of Pennsylvania,2016,해외박사(DDOD)
+,8,Data-Driven Approaches for Peer-to-Peer Botnet Detection and Forecasting,"Piyasinghe, Priyangika R",Iowa State University,2019,해외박사(DDOD)
+,9,A Data-driven strategy for the development of a smart intercity bus system in Ecuador : a comparative public policy analysis between South Korea and Ecuador,"SUNTAXI, Paola Fernanda",KDI School of Public Policy and Management,2020,국내석사
+,10,Near Data Processing for Clustering Enhanced by Automatic Memory Disaggregation,Sanghoon Lee,DGIST,2023,국내석사
+,11,A Data-Driven Approach to Calculating Nodal Net Load Forecasts in Power Systems Analysis,"Ausmus, Jason R",Colorado School of Mines,2020,해외박사(DDOD)
+,12,Large Data Approaches to Thresholding Problems,"Lu, Zhiyuan",University of Michigan,2019,해외박사(DDOD)
+,13,Towards Data-Driven Methods for Complex Systems: Unfolding the Crumpling Dynamics of Thin Sheets,"Andrejevic, Jovana",Harvard University,2022,해외박사(DDOD)
+,14,Bayesian Dynamic Data Borrowing Methodologies for Source-Specific Inference   [electronic resource],"Ji, Ziyu",University of Minnesota,2023,해외박사(DDOD)
+,15,High Dimensional Data Methods in Industrial Organization Type Discrete Choice Models,"Lopez Gomez, Daniel Felipe",The Ohio State University,2022,해외박사(DDOD)
+,16,Deep Learning with Multimodal Data for Healthcare,"Ismail, Nur Hafieza Binti",Texas A&M University,2020,해외박사(DDOD)
+,17,Lasso Guarantees for Dependent Data,"Wong, Kam Chung",University of Michigan,2017,해외박사(DDOD)
+,18,(A) pattern analysis of massive Seoul taxicab data for an efficient recommendation system,마종원,"Graduate School, Yonsei University",2018,국내석사
+,19,Outcome Prediction Using Electronic Medical Record Data with Missing Entries,"Strandberg, Erika",Stanford University,2017,해외박사(DDOD)
+,20,A Taxonomy for Business Models of Data-driven Healthcare Services = 데이터 기반 헬스케어 서비스의 비즈니스 모델 분류체계 개발,조은지,포항공과대학교 대학원,2022,국내석사
+,21,"Latent Gaussian Copula Model for High Dimensional Mixed Data, and Its Applications","Quan, Xiaoyun",Cornell University,2020,해외박사(DDOD)
+,22,Predicting Financial and Insurance data Using Artificial Intelligence Methodologies,이아람,이화여자대학교 대학원,2024,국내박사
+,23,Canonical Correlation Analysis and Network Data Modeling: Statistical and Computational Properties,"Ma, Zhuang",University of Pennsylvania,2017,해외박사(DDOD)
+,24,Anomaly Detection based on Sensor Measurement Data and Machine Learning Algorithms in Industrial  Control Systems = 산업 제어 시스템에서 센서 측정 데이터 및 기계 학습 알고리즘 기반 이상 탐지,민토,국방대하교 국방관리대학원,2023,국내석사
+,25,Reduced Order Model for Global Atmospheric Chemistry Data,"Velegar, Meghana",University of Washington,2023,해외박사(DDOD)
+,26,Framework of Goal Decision and Negotiation Models for Data-driven Self-reconfigurable Manufacturing Systems = 데이터기반 자가재구성 생산시스템을 위한 목적결정모델과 협상모델 프레임워크,"Lee, Sangil",부산대학교,2022,국내박사
+,27,Computational Methods to Elucidate Post-transcriptional Gene Regulation Using High-throughput Sequencing Data,"Zhang, Zijun","University of California, Los Angeles",2019,해외박사(DDOD)
+,28,"Machine Learning and Image Processing for Clinical Outcome Prediction: Applications in Medical Data from Patients with Traumatic Brain Injury, Ulcerative Colitis, and Heart Failure","Yao, Heming",University of Michigan,2021,해외박사(DDOD)
+,29,Three Essays of Healthcare Data-driven Predictive Modeling,"Lou, Zhouyang",Purdue University,2023,해외박사(DDOD)
+,30,Semiparametric Inference for Integrated Volatility Functionals Using High-Frequency Financial Data,"Liu, Yunxiao",The University of North Carolina at Chapel Hill,2017,해외박사(DDOD)
+,31,Leveraging Machine Learning & Interpretability Methods for Limited Data: From Systems Biology to Healthcare Applications   [electronic resource],"Beebe-Wang, Nicasia",University of Washington,2023,해외박사(DDOD)
+,32,A boosting method for metamodel generation based on large data,권혁호,한양대학교 대학원,2016,국내석사
+,33,Feature selection based on geometric distance for high-dimensional data = 고차원 데이터를 위한 기하학적 거리 기반의 특징 선택,이진희,Pohang University of Science and Technology,2016,국내박사
+,34,Pregnancy outcomes related to biologics exposure and incidence change during COVID-19 pandemic in immune-mediated inflammatory diseases : Korean nationwide population-based data analysis,안수민,한양대학교 대학원,2022,국내박사
+,35,Development of a distributed computing framework for large-scale point cloud data processing in the construction industry,Hieu Minh Nguyen,"Graduate School, Yonsei University",2023,국내박사
+,36,Towards FPGA-based enclaves for security and data integrity on clouds and IIoT devices,김한이,"Greduate School, Korea University",2021,국내박사
+,37,A study on real-time processing of video stream data,"Jiang, Xing Chen",서울시립대학교,2018,국내석사
+,38,Data de-identification framework,오준형,"Graduate School of Cybersecurity, Korea University",2021,국내박사
+,39,(A) study on framework for predictive maintenance using IoT data : based on case analysis of steel industry,"You, Younghag","Graduate School, Yonsei University",2019,국내박사
+,40,(A) MLP and Variational Autoencoder based cross-domain recommender system using text-augmented data,류동엽,경희대학교 대학원,2024,국내석사
+,41,Data-Driven Insights into Food Safety Recalls: A Study Based on Web Scraping and Advanced Business Intelligence Techniques = 식품 안전 리콜에 대한 데이터 기반 인사이트: 웹 스크레이핑과 고급 비즈니스 인텔리전스 기법을 기반으로 한 연구,LINA MARIA CUERVO DIAZ,충북대학교 일반대학원,2024,국내석사
+,42,Availability Modeling and Analysis of Data Center Systems using Stochastic Reward Nets : 데이터 센터 시스템의 가용성 모델링 및 분석,투안안,Korea Aerospace University,2015,국내박사
+,43,Efficient and Adaptive Resource Management for Dynamically Optimizing Distributed Data Processing Systems = 효율적이고 유연한 자원 관리를 통한 분산 데이터 처리 시스템 성능의 동적 최적화,송원욱,서울대학교 대학원,2023,국내박사
+,44,"Encounters beyond the interface: Data structures, material feminisms, and composition","Masters, Christine L",Purdue University,2016,해외박사(DDOD)
+,45,A Hardware-Accelerated Scalable Inline Data Reduction for Modern SSD Arrays = SSD Array 의 인라인 데이터 절감을 위한 확장 가능한 하드웨어 가속 기술,"Ajdari, Mohammadamin",Pohang University of Science and Technology,2019,국내박사
+,46,A Study on Efficient Data Augmentation Method for Automatic Classification of Plant Disease = 식물 병해충 자동 분류를 위한 효율적인 데이터 증강 방법에 관한 연구,이새봄,가천대학교 일반대학원,2023,국내석사
+,47,Accelerating similarly structured data,"Wu, Lisa",Columbia University,2014,해외박사(DDOD)
+,48,Mining Heterogeneous Spatial-Temporal Data with Graph Neural Network to Support Smart City Management,"Dong, Fan",The University of Arizona,2022,해외박사(DDOD)
+,49,Visualization of Mining Results based on User Data in Social Media Content = 소셜미디어 콘텐츠에서 사용자 데이터 기반 마이닝 결과의 시각화,이효맹,원광대학교 일반대학원,2021,국내박사
+,50,Distributed architecture and demand prediction for efficient management of data center resources,"Rayan, Alanazi",Graduate school of Dankook University,2019,국내박사
+,51,Data driven component development and diagnosis in semiconductor manufacturing,"Kim, Taemin",Sungkyunkwan University,2022,국내박사
+,52,Data Retention Enhancement of Non-Filamentary RRAM Synapse Arrays for Neuromorphic Systems = 뉴로모픽 시스템을 위한 데이터 보존 기능이 개선된 비-필라멘트형 저항 변화 소자 어레이,홍경호,서울대학교 대학원,2024,국내박사
+,53,Adopting data management maturity (DMM) model practices in analytics maturity model,감수란,"Graduate School, Korea University",2018,국내석사
+,54,Roulette data and financial market analysis based on chaos theory and multi-class prediction using machine learning,이희철,"Graduate School, Yonsei University",2023,국내박사
+,55,"Forecasting market trends of technologies using Bigdata : An application of percentage analysis, Decision Tree analysis, data visualization analysis to forecasting",조용확,서강대학교 경영전문대학원,2014,국내석사
+,56,Designing progressive visualization systems for exploring large-scale data,조재민,서울대학교 대학원,2020,국내박사
+,57,Statistical Analysis for Network Data using Matrix Variate Models and Latent Space Models,"Zhang, Xuefei",University of Michigan,2020,해외박사(DDOD)
+,58,Crowdsourcing Ground Truth Data Collection for Precision Agriculture Using a Citizen Science Mobile Application,"Posadas, Brianna Belen",University of Florida,2020,해외박사(DDOD)
+,59,Detection of confidential data leaks through analysis of hacking forum posts based on machine learning,심선형,"Graduate School of Information, Yonsei University",2023,국내석사
+,60,"Doing ""Good"" with Data? Understanding and Working Around Data Doubles in Human Services Organizations","Bopp, Chris",University of Colorado at Boulder,2020,해외박사(DDOD)
+,61,Analyzing Imbalanced Social Data for Processing Spatial Information : 위치 정보 처리를 위한 불균형 소셜 데이터 분석,누옌트룽트리,Graduate School of Yeungnam University,2017,국내박사
+,62,Domain-Specific Solid-State Data Storage Systems Design,"Zhang, Xuebin",Rensselaer Polytechnic Institute,2016,해외박사(DDOD)
+,63,Monitoring and Workload Optimization of Garment Production Line using Power Consumption Data,정우균,서울대학교 대학원,2020,국내박사
+,64,From genotype to phenotype: Studies on transcriptome analysis of biomedical and developmental data = 유전자형에서 표현형에 이르기까지: 생명의료 및 발생단계 데이터의 전사체 분석에 관한 연구,이성권,전남대학교,2023,국내박사
+,65,A study on optimal algorithm and model for predicting water quality data using artificial intelligence = 인공지능을 활용한 최적의 수질데이터 예측 알고리즘 및 모델에 대한 연구,어인선,을지대학교 대학원,2024,국내석사
+,66,(A) study on brillouin optical correlation domain analysis adopting time-domain data processing,류국빈,"Greduate School, Korea University",2021,국내박사
+,67,Automatic dementia detection by machine learning techniques from clinical data,소아람,"Graduate School, Korea University",2020,국내박사
+,68,Research on the Impact of Digital Economy Development on China's Economic Growth : Based on the Provincial Panel Data = 디지털 경제 발전이 중국 경제 성장에 미치는 영향:  성급 패널 데이터를 기반으로 함,CHEN XIA,고려대학교 대학원,2023,국내석사
+,69,Acoustic data-based activities-aware method for smart home technology services,이상연,경희대학교 일반대학원,2015,국내석사
+,70,Dynamic Traffic Engineering for Improving Energy Efficiency and Network Utilization of Data Center Networks : 데이터 센터 네트워크의 에너지 소모 절감 및 네트워크 자원 이용 효율 향상을 위한 동적 트래픽 엔지니어링,서신석,포항공과대학교 일반대학원,2014,국내박사
+,71,"Role of Cartography, Design & Visualization in Making Personal Movement Data More Accessible, Legible, Valuable","Nelson, Jonathan Kerry",The Pennsylvania State University,2019,해외박사(DDOD)
+,72,Bayesian Models for High-Dimensional Count Data with Feature Selection,"Li, Qiwei",Rice University,2016,해외박사(DDOD)
+,73,머신러닝을 이용한 데이터 분석 연구 : 브랜드 클러스터링과 게임 리뷰 콘텐츠 사례연구를 중심으로 = The data analysis using on machine learning on approach : a case study of brand clustering and game review contents,강하나,한림대학교,2017,국내석사
+,74,Development and validation sepsis clustering model with longitudinal multi-modal data,성민동,"Graduate School, Yonsei University",2023,국내박사
+,75,Exploring Research Themes in Data Analytics for Small and Medium Enterprises (SMEs): An Integrated Review with Implications to the Philippines,라카산딜레  비르조  안,한양대학교 대학원,2024,국내석사
+,76,Industrial Artificial Intelligence from Data Analytics to Simulation,김태완,포항공과대학교 일반대학원,2024,국내박사
+,77,Study on crime investigation method based on social data analysis and artificial intelligence algorithm,안동욱,"Graduate School, Yonsei University",2020,국내박사
+,78,Machine Learning on Encrypted Data and Homomorphic Comparison = 암호화된 상태에서의 기계학습과 동형 비교연산,김두형,서울대학교 대학원,2021,국내박사
+,79,Parallel Processing Systems for Data and Computation Efficiency with Applications to Graph Computing and Machine Learning,"Zhou, Li",The Ohio State University,2019,해외박사(DDOD)
+,80,Powering Phosphoproteomics with Large Scale Data Analysis and Machine Learning,"Barente, Anthony S",University of Washington,2022,해외박사(DDOD)
+,81,환경 정책이 기업 성과에 미치는 영향 : RUSSELL3000 및 뉴스 미디어 데이터를 통한 실증적 증거 = The Impacts of Environmental Policies on Firm Performance: Empirical Evidence from RUSSELL3000 & News Media Data,주승권,중앙대학교 대학원,2024,국내박사
+,82,Evaluating Impacts of Forests and Forest Policy: Methods and Applications Using Satellite Data   [electronic resource],"Garcia, Alberto Gabriel","University of California, Santa Barbara",2023,해외박사(DDOD)
+,83,Analysis of flow population types and POI distribution characteristics using location-based data : focusing on Shenzhen in China,자오양,한양대학교 도시대학원,2024,국내석사
+,84,(The) study of rice pollen tube growth utilizing omics data and genome editing,홍우종,경희대학교 대학원,2021,국내박사
+,85,Analyzing Impacts of Transportation and Non-Transportation Activities on Human Health with an Advanced Platform for Collecting Travel and Physical Activity Data,"Hasan, Raed Abdullah",Western Michigan University,2019,해외박사(DDOD)
+,86,Data-Driven Railway Track Deterioration Modeling for Predictive Maintenance,"Ghofrani, Faeze",State University of New York at Buffalo,2020,해외박사(DDOD)
+,87,데이터 분포를 이용한 선택적 Skyline 질의 처리 = Adaptive skyline computation based on data distributions,유보선,인하대학교 대학원,2015,국내박사
+,88,Machine Learning for Data-driven Biomedical Decision Making,"Luckett, Daniel J",The University of North Carolina at Chapel Hill,2018,해외박사(DDOD)
+,89,Geometric Data Organization: Algorithms and Applications,"Stanley, Jay S., III",Yale University,2020,해외박사(DDOD)
+,90,Development of a data-driven customer quality model for cellular system and technology policy for the model based autonomous operating system,"Jung, Hyung-lok","Graduate School, Yonsei University",2018,국내박사
+,91,High-Resolution Rapid Refresh Model Data Analytics for Wildland Fire Weather Assessment,"Blaylock, Brian Kenneth",The University of Utah,2019,해외박사(DDOD)
+,92,Migration and Social Networks: New Insights from Novel Data,"Chi, Guanghua","University of California, Berkeley",2020,해외박사(DDOD)
+,93,Alternating Projection-Based Channel Estimation and Data Detection for Massive MIMO System,CHEN YILIANG,아주대학교,2017,국내석사
+,94,Thermodynamic Principles of Stochastic Dynamics: Time Symmetries and Data Infinitum,"Yang, Ying-Jen",University of Washington,2022,해외박사(DDOD)
+,95,Diffusion-based Approaches to Visualization and Exploration of High-Dimensional Data,"Gigante, Scott Anthony",Yale University,2021,해외박사(DDOD)
+,96,Exploration of Statistical Learning Strategies and Their Applications on Medical Image Data for Computer-Aided Diagnosis,"Hu, Yifan",State University of New York at Stony Brook,2017,해외박사(DDOD)
+,97,Hierarchical parameter analysis of PCB manufacturing processes using data mining technologies,심현식,"Graduate School, Yonsei University",2014,국내박사
+,98,Modeling approaches for cost and cost-effectiveness estimation using observational data,"Li, Jiaqi",University of Pennsylvania,2016,해외박사(DDOD)
+,99,Decentralized data management schemes for IoT blockchain,김민경,Ajou University,2019,국내박사
+,100,Omics-based Data Mining Approaches in Translational Biomarker Research of Cancer and Chronic Diseases,응웬푸옥롱,서울대학교 대학원,2020,국내박사
+,1,딥 러닝 모델을 위한 PCB 문자 데이터 분석 및 확장 기법 : Ndayishimiye Fabrice = PCB Character Data Analysis and Augmentation Techniques for Deep Learning Models,파브리스,계명대학교 대학원,2020,국내석사
+,2,Evaluation Models for Safe Ship Operation through Data Driven Approach using AIS Information = AIS 데이터 기반 안전한 선박 운항을 위한 평가 모델에 관한 연구,손우주,한국해양대학교 대학원,2023,국내박사
+,3,풀링된 자료에서 로그노말분포 모수 추정법 비교 : 모의실험 연구 = Comparison of statistical estimations based on pooled data of lognormal distribution.,문지은,연세대학교 일반대학원,2020,국내석사
+,4,Identifying stress-related genes and predicting stress types in a heterogeneous time-series data,강동원,서울대학교 대학원,2018,국내석사
+,5,Strategic Marketing in Intercollegiate Athletics: An Analysis of the Football Marketing Directors in the Big Ten Conference,"Benedek, Jonathan J",Indiana University,2021,해외박사(DDOD)
+,6,Feature Extraction and Data-driven Analysis for STEM-derived Multi-dimensional Data = 특징 추출과 데이터 기반의 다차원 주사투과전자현미경 분석 방법론 개발,류진석,서울대학교 대학원,2022,국내박사
+,7,Development of computational methods for identifying cancer biomarkers from high-throughput data,전유경,이화여자대학교 대학원,2015,국내박사
+,8,Enriching Training Data for Named Entity Recognition Task from Short Text Streams on Twitter = 트위트 단문 스트림에서의 개체명 인식을 위한 트레이닝 데이터의 확장,Van Cuong Tran,영남대학교 대학원,2017,국내박사
+,9,3D hand pose estimation using an appearance-based particle Filter from depth data,유수곤,"Graduate School, Korea University",2012,국내석사
+,10,Towards Efficient and Scalable Data Delivery in Edge-Cloud for Large-Scale IoT Applications with Distributed Publish/Subscribe Brokers,Pham Van Nam,경희대학교 대학원,2022,국내박사
+,11,Multisensor data fusion and routing based on machine learning technique for WSN,"Ullah, Ihsan",Sungkyunkwan University,2019,국내박사
+,12,Nucleus Sampling-Based Synthetic Parallel Data Generation Method for Neural Machine Translation = 신경망 기계 번역을 위한 뉴클러스 샘플링 기반의 가상 병렬 데이터 생성 방법,Xu Guanghao,서강대학교 일반대학원,2023,국내박사
+,13,Coping with Data-sparsity in Example-based Machine Translation,"Gangadharaiah, Rashmi",Carnegie Mellon University,2011,해외박사(DDOD)
+,14,Energy-efficient Delay-constrained Data-gathering Scheme using Multiple Mobile Data Collectors,다스굽타 룸파,The Graduate School of the University of Ulsan,2017,국내석사
+,15,Learning extra representation by knowledge distillation and adversarial training without extra training data,"Jeon, Hyeonseong",Sungkyunkwan university,2021,국내석사
+,16,Cube-space data mining,"Chen, Bee-Chung",The University of Wisconsin - Madison,2008,해외박사(DDOD)
+,17,"Boundaries and Policing: Space, Jurisdictions, and Roles in the Collection of Official Crime Data","Barnett-Ryan, Cynthia",West Virginia University,2019,해외박사(DDOD)
+,18,Automating Memory Management in Data Analytics,"Kunjir, Mayuresh",Duke University,2019,해외박사(DDOD)
+,19,Empirical research of the influencing factors on stock return : panel data regression based on Chinese A-share market,장봉,동국대학교,2020,국내석사
+,20,Networked Data Analytics: Network Comparison and Applied Graph Signal Processing,"Huang, Weiyu",University of Pennsylvania,2018,해외박사(DDOD)
+,21,EPC Information Services: Data Model and Event Queries,"Tuyen, Nguyen Thi Thanh",경희대학교,2008,국내석사
+,22,Measuring the Elasticity of Talent Supply in European Football Leagues: Implications for Financial Fair Play in the Big Five Leagues,김재엽,성균관대학교 일반대학원,2016,국내석사
+,23,Intelligent data selection and semi-supervised learning for support vector regression,김동일,서울대학교 대학원,2013,국내박사
+,24,Selective data deduplication and buffer cache management for primary storage system = 주 저장 장치를 위한 선택적 중복 제거 및 버퍼캐시 관리 기법,박세진,Pohang University of Science and Technology,2016,국내박사
+,25,Investigation of addressing and servo method for data format in holographic data storage : angle multiplexing and shift multiplexing = 홀로그래픽 저장장치의 데이터 포멧을 위한 어드레싱 및 서보 기법에 대한 연구 : 각 다중화와 이동 다중화,최진영,"Graduate School, Yonsei University",2006,국내박사
+,26,Analysis of humor in audiovisual translation : Focusing on The U.S. sitcom series <The Big Bang Theory>,이군호,한국외국어대학교 대학원,2024,국내석사
+,27,Models for Limited Labeled Time Series Data with Applications in Sleep Science   [electronic resource],"Aggarwal, Karan",University of Minnesota,2023,해외박사(DDOD)
+,28,Role of transforming growth factor-b-induced gene product (big-h3/TGFBIp) in monocytes and platelets : 단핵세포와 혈소판에서의 big-h3/TGFBIp의 기능,김하정,경북대학교 대학원,2008,국내박사
+,29,(The) effect of the frequency of internet use on subjective well-being : The moderating effect of big five personality traits,"Luo, Xuewen",Sungkyunkwan University,2024,국내석사
+,30,Development of ultra-­fast and high-­performing variant callers from whole-­genome sequencing data,최민학,한양대학교 대학원,2023,국내박사
+,31,6MapNet: Characterizing Soccer Players via a Deep Embedding of GPS Data = GPS 데이터 임베딩을 통한 축구선수 특성 표현,김현성,서울대학교 대학원,2021,국내석사
+,32,Algorithms for Analyzing Spatio-temporal Data,"Nath, Abhinandan",Duke University,2018,해외박사(DDOD)
+,33,Evaluate digitalization effect on data categorization versus paper flow system used for visits registration of health conditionality in Egypt (comparative retrospective study),Abdelrahman Mohamed Mohamed Elsayad Belal,"Graduate School of Public Health, Yonsei University",2024,국내석사
+,34,An investigation of the Big Five and narrow personality traits in relation to academic performance,"Rogers, Craig Lancer",The University of Tennessee,2005,해외박사(DDOD)
+,35,A Research on Real-time Localization and 3D Points Classification System for Autonomous Driving using Sensor Fused data of LiDAR and Vision = 자율주행을 위한 실시간 Localization과 LiDAR와 Vision 센서의 융합된 데이터를 이용한 3D Points Classification 시스템에 대한 연구,Hyunwoo Kim,국민대학교 자동차공학전문대학원,2022,국내석사
+,36,CUBIT: Compact Profiling for Dynamic Data Dependence Analysis = 비트맵을 이용한 의존성 분석 기법,김효영,성균관대학교 일반대학원,2012,국내석사
+,37,Comparison of error metrics in iterative error analysis algorithm for endmember extraction from hyperspectral data,최영민,서울대학교 대학원,2015,국내석사
+,38,Research of few-Shot learning technology for improving the accuracy of deep learning model based on small learning data,이준목,동아대학교 대학원,2020,국내석사
+,39,"대학생 축구선수들의 Big5 성격, 운동자기효능감 및 자아탄력성의 관계 = The Relationship between Big 5 Personality, motor self-efficacy and Ego-resiliency of University Soccer Players",진국빈,전북대학교 일반대학원,2022,국내석사
+,40,"An Anthology of Missingness: Simulated Missing Data, Multivariate Tilt, and Environmental Exposures in Late Adulthood","Dworak, Elizabeth M",Northwestern University,2022,해외박사(DDOD)
+,41,(A) Reliable Data Management Framework based on Access Patterns for Flash Storage Systems,Sanam Shahla Rizvi,아주대학교 정보통신전문대학원,2010,국내박사
+,42,Proposal blockchain based data protection framework for cybersecurity in Ecuador,Eddy R Espinosa Daquilema,한동대학교 국제개발협력대학원,2024,국내석사
+,43,Reliable routing protocol for real-time data dissemination in internet of things,오승민,忠南大學校 大學院,2015,국내박사
+,44,Text Segmentation in Document and Scene Image by Paired Data Synthesis = 쌍을 이루는 데이터 합성에 의한 문서 및 장면 이미지의 텍스트 분할,당꽝빈,전남대학교,2022,국내박사
+,45,(A) study on the structural equation modeling for non-normal data,동상옥,Dong-Eui Univ.,2012,국내박사
+,46,Data-Driven Systems Engineering for Bioinspired Integrative Design,"Nicoloso, Luca Gabriele De Vivo","University of California, San Diego",2021,해외박사(DDOD)
+,47,Efficient data organization and load balancing on parallel disks,"Kuo, Szu-Wen",University of Illinois at Urbana-Champaign,1999,해외박사(DDOD)
+,48,Finite element model generation using 3 Dimensional Scan Data : 3 Dimensional Scan Data를 移用한 유한요소모델 生成,이수용,인제대학교 대학원,2006,국내석사
+,49,Studies on Hotspot Detection for Multivariate Spatial Data Using Echelons,홍한표,Okayama University,2005,해외박사
+,50,WRF dynamically downscaling PCM data for climate change impacts in California & application of a signal technique to the source-receptor relationship in WRF,"Zhao, Zhan","University of California, Davis",2009,해외박사(DDOD)
+,51,Validation of CSHORE model using field data on wave-dominated beach and macro-tidal beach,도기덕,서울대학교 대학원,2014,국내박사
+,52,Optimization of the features and training data for improving performance of motor imagery EEG-based BCI = 동작 상상 뇌파-기반 BCI의 성능 향상을 위한 특징과 훈련 데이터 최적화,이다빛,Catholic University of Korea,2018,국내박사
+,53,Complementing Individual Variability within Neural Data with Dual Model Transfer Learning at the Brain-Computer Interface = 뇌-컴퓨터 인터페이스에서 듀얼 모델 전이 학습을 통한 신경 데이터의 개별 다양성 보완 방법,김준수,서울대학교 대학원,2024,국내석사
+,54,Two-step ODETLAP and induced terrain for improved geographical data reconstruction,"Lau, Tsz-Yam",Rensselaer Polytechnic Institute,2012,해외박사(DDOD)
+,55,Does Herzberg’s Two- Factors Mediate the Link between Big-Five Traits and Digital Skill Learning Motivation?: Evidence of Vietnam’s Ministry of Justice = Herzberg의 2요인이 5가지 성격특성과 디지털 기술 학습 동기와의 관계를 매개하는가?: 베트남 법무부를 중심으로,Nguyen Hai Ha,연세대학교 일반대학원,2024,국내석사
+,56,FAULT DIAGNOSIS OF ROTATING MACHINES BASED ON ADVANCED SIGNAL PROCESSING METHODS AND DATA-DRIVEN ARTIFICIAL INTELLIGENCE TECHNIQUES,프로스비린 알렉산데르,The Graduate School of the University of Ulsan,2021,국내박사
+,57,Study on Topographic Changes in Tidal Flats of the West Coast of South Korea between 1980s and 2010s Using Remote Sensing Data,허진,서울대학교 대학원,2016,국내박사
+,58,(A) big five personality approach to networking behavior : evidence from Seoul Metropolitan government officials,이규민,"Graduate School, Yonsei University",2020,국내석사
+,59,Systemic risk measures based on open financial data,송재욱,서울대학교 대학원,2016,국내박사
+,60,Map Data Integration Technique with Large-Scale Fleet Telematics Data as Road Safety Surrogate Measures in the New York Metropolitan Area,"Alrassy, Patrick",Columbia University,2020,해외박사(DDOD)
+,61,Design Tools and Data-DrivenMethods to Facilitate Player Authoring in a Programming Puzzle Game,"Hicks, Andrew Gregory",North Carolina State University,2017,해외박사(DDOD)
+,62,Development of Micro-Computed Tomography Data Based Simulation Technique For Deformation and Strain Measurement of Densely Packed Electronics,"Kothari, Nakul",Auburn University,2020,해외박사(DDOD)
+,63,Probing cosmic near infrared background using AKARI data,서현종,서울대학교 대학원,2013,국내박사
+,64,Relation of Regional difference in Mental health state in Seoul using multilevel data analysis : 다수준 분석을 이용한 서울시 정신건강 상태의 소지역간 차이 및 지역특성과의 연관성,김슬기,서울대학교 대학원,2015,국내석사
+,65,Wind resource on the actual capacity factors using AWS data in Korea,유승보,"Graduate School, Yonsei University",2017,국내박사
+,66,Robot Learning from Interactions with Physics-Realistic Environment: Constructing Big Task Platform for Training AI Agents,"Xie, Xu","University of California, Los Angeles",2021,해외박사(DDOD)
+,67,An exploratory analysis of the relationship between higher education and television: A focus on big-time college sports,"Anctil, Eric J",The University of Wisconsin - Madison,2003,해외박사(DDOD)
+,68,Big Graph Analytics on Just a Single PC,"Wang, Kai","University of California, Los Angeles",2019,해외박사(DDOD)
+,69,Big Bayesian Phylogenetic Comparative Methods,"Hassler, Gabriel","University of California, Los Angeles",2022,해외박사(DDOD)
+,70,San Diego's big boom:  District bureaucracy meets culture of learning (California),"Hightower, Amy Margaret",Stanford University,2001,해외박사(DDOD)
+,71,Image parsing by data-driven Markov chain Monte Carlo,"Tu, Zhuowen",The Ohio State University,2002,해외박사(DDOD)
+,72,The relationship between household debt and the big five personality,이태현,서강대학교 대학원,2019,국내석사
+,73,The influence of rearing order on personality:  Data from biological adoptive siblings,"Beer, Jeremy Michael",The University of Texas at Austin,2000,해외박사(DDOD)
+,74,Structure Determination from Powder Diffraction Data for Rechargeable Battery Materials,임성철,DGIST,2017,국내박사
+,75,Deep Trajectory Prediction for Robotic Manipulation Under Unreliable Sensor Data,Alisher Abdulov,Graduate School of UNIST,2020,국내석사
+,76,"Integrating ecology and socioeconomics for species restoration:  Feasibility of a Louisiana black bear reintroduction in and around Big Thicket National Preserve, Texas","Morzillo, Anita T",Michigan State University,2005,해외박사(DDOD)
+,77,The Effect of Ideological Indifferences on Voting Intention Changes : Empirical Evidence from the ANES Time Series Cumulative data,KAPANADZE MIRZA,아주대학교,2015,국내석사
+,78,Dithiol Glutaredoxin Systems and Their Functional Significance in Teleost Immune Responses; Deciphering Roles of Glutaredoxin 1 and 2 in Redox Homeostasis of Big Belly Seahorse (Hippocampus abdominalis),Welivitiye Kankanamge Malithi Omeka,제주대학교,2019,국내석사
+,79,An examination of the quality rankings of three unfamiliar wind band compositions and selected musical criteria among undergraduate instrumental music education students and instructors at five Big Ten universities,"Heidel, Richard Mark",University of Illinois at Urbana-Champaign,1999,해외박사(DDOD)
+,80,Novel Abstractions for Data Center Network Management,"Gember-Jacobson, Aaron",The University of Wisconsin - Madison,2016,해외박사(DDOD)
+,81,(The) Joint Effect of Audit Firm Tenure and Big 4 Auditor on the Intensity of Real Earnings Management,김윤도,서울대학교 대학원,2019,국내석사
+,82,Advanced methods for managing transient and persistent data,"Qiao, Lin","University of California, Santa Barbara",2005,해외박사(DDOD)
+,83,"System Development for Space Weather Data, Solar Adaptive Optics, and Geo-effective CME Forecast",최성환,경희대학교 대학원,2017,국내박사
+,84,Dynamic scheduling for delay sensitive IoT data delivery,"Nguyen, Tien Dung",Sungkyunkwan university,2020,국내박사
+,85,"Balance of Social and Entrepreneurial Objectives : A Case Study of ""The Big Issue Korea""",Inna KARMOLIT,한국학중앙연구원 한국학대학원,2015,국내석사
+,86,High Fidelity Reversible Data Hiding,Xiaochao Qu,고려대학교 정보경영공학전문대학원,2015,국내박사
+,87,Generating synthetic data with Inferential Wasserstein Generative Adversarial Network = Inferential Wasserstein Generative Adversarial Network를 이용한 합성 데이터 생성,김승종,서울대학교 대학원,2023,국내석사
+,88,3차원 인체 스캔 데이터를 활용한 베트남 30대 여성 체형 분석 및 토르소 패턴 설계 : Somatotype Analysis and Torso Pattern Development for Vietnamese Women in 30s Using 3D Body Scan Data,트란티민카우,영남대학교 대학원,2012,국내박사
+,89,"Conservation genetics of major endangered large carnivores in South Korea: Phylogenic studies of Asiatic black bear and leopard, and development of unified microsatellite markers for big cats = 한국 멸종위기 대형 식육목의 보전유전학: 반달가슴곰과 표범의 계통분류 및 표범 속 동물의 통합 초위성체 마커 개발",현지연,서울대학교 대학원,2022,국내박사
+,90,Estimating Revenues of Integrated Fare System for Seoul Metropolitan Public Transportation using Smartcard Data = 수도권 통합대중교통체계 교통카드 자료 기반 수입금 산정 방안,신호석,서울대학교 대학원,2022,국내박사
+,91,LLMs can Process Complex Theoretical Constructs: Explorations of Procedural Fairness and Distributive Fairness in Data Science,Bye Paul Curtis,제주대학교 대학원,2024,국내석사
+,92,데이터스트림 환경에서의 다중질의 최적화를 위한 시공간 질의 클러스터링 트리 : A Spatio-temporal Query Clustering Tree for Multiple Query Optimization in Data Stream Environment,심상예,인하대학교 대학원,2010,국내석사
+,93,Effect of big five personality traits and mindfulness on the preference to e-selection,"Djalilova, Barno",Ajou University,2019,국내석사
+,94,Essays on Big Life Decisions,"Mueller, Maximilian W","University of California, Berkeley",2022,해외박사(DDOD)
+,95,네트워크 분석을 통한 글로벌 데이터로부터의 생물학적 기능 추론을 위한 시스템적 접근 = Systems approaches for inferring biological functions from global data through network analysis,현도영,포항공과대학교 일반대학원,2018,국내박사
+,96,시계열 모델링에 기반한 라이프로그 데이터 관리 = Lifelog Data Management Based on Time Series Modeling,김양,인하대학교 대학원,2014,국내석사
+,97,Measuring the performance of Nigerian National Petroleum Corporation using data envelopment analysis,"Basil, Ike Chidi",서울대학교 대학원,2013,국내석사
+,98,High-performance graph data processing on a single machine,조용연,한양대학교 대학원,2018,국내박사
+,99,Digital Signal Processing Methods and Data Acquisition System for a MRI Compatible Brain PET Using GAPD Arrays,"Hu, Wei",성균관대학교 일반대학원,2012,국내박사
+,100,Estimation performance comparison of regularized sliced inverse regression between bivariate and univariate slicing after reweight transformation in survival data,서비슬,이화여자대학교 대학원,2016,국내석사
+,1,SplitAvg Mitigating Spurious Correlations using Data Splitting and Parameter Averaging = SplitAvg: 데이터 분할과 파라미터 평균화를 통한 거짓 상관관계 제거,유상윤,서울대학교 대학원,2024,국내석사
+,2,Accelerated Computation of Digital Holograms of 3-D Objects Using Sub-principal Fringe Patterns Based on Inter-line Data Redundancy,박기혁,광운대학교,2014,국내석사
+,3,"Lower and Higher Order Facets and Factors of the Interpersonal Traits among the Big Five: Specifying, Measuring, and Understanding Extraversion and  Agreeableness","Davies, Stacy Eitel",University of Minnesota,2012,해외박사(DDOD)
+,4,Value Creation in Big Tech Acquisitions : An Empirical Analysis = 빅테크 인수합병의 수익률에 대한 실증 분석,최지원,서울대학교 대학원,2022,국내석사
+,5,Big Horses Don't Die : the chaebol dominance in the course of Korean industrialization,임은미,University of Washington,2002,해외박사
+,6,Data-driven quality of service improvements in hospitals,"Yu, Dongqing",The University of North Carolina at Chapel Hill,2016,해외박사(DDOD)
+,7,"Big science, nano science?:  Mapping the evolution and socio-cognitive structure of nanoscience/nanotechnology using mixed methods","Milojevic, Stasa","University of California, Los Angeles",2009,해외박사(DDOD)
+,8,Big Aspirations: Constructing a Collaborative Evaluation Culture to Support the Impact Goals of an Intermediary Organization,"Taha, Kofi A",Harvard University,2022,해외박사(DDOD)
+,9,"Too big, too small, just right: The impact of school district size on a principal's ability to exercise leadership---A study of the extremes","Macaluso, Christopher G",Arizona State University,2007,해외박사(DDOD)
+,10,Building Bigness: Religious Practice and Social Support in Rural South India,"Power, Eleanor A",Stanford University,2015,해외박사(DDOD)
+,11,"From the Big Bang to tumbleweeds:  Analysis of signals from relic gravitons, neutron stars, and terrestrial gravitational noise in gravitational wave detectors","Creighton, Teviet David",California Institute of Technology,2000,해외박사(DDOD)
+,12,Query-driven Exploration of Big Graphs,"Namaki, MohammadHossein",Washington State University,2019,해외박사(DDOD)
+,13,"Essays on data driven insights from crowd sourcing, social media and social networks","Velichety, Srikar",The University of Arizona,2016,해외박사(DDOD)
+,14,An Analysis of the Efficiency of Korean railway freight station with Data Envelopment Analysis-Assurance Region(DEA-AR),안치원,인하대학교 물류전문대학원,2008,국내석사
+,15,Representation Learning on Brain Data,"Lin, Sikun","University of California, Santa Barbara",2022,해외박사(DDOD)
+,16,Persistence of institutions : state activism and big business in South Korea,장지호,Graduate School University of Missouri-Columbia,2002,해외박사
+,17,"Capitalist development, the state and big business in Korea : a sociological study of the Korean chaebol",김윤태,London School of Economics and Political Science,1998,해외박사
+,18,"(A) time-series, cross-country panel data analysis – economic factors influencing fertility rate of oecd countries, an implication of South Korea (1970-2017)","Komutmanee, Suwijak","Graduate School of International Studies, Korea University",2020,국내석사
+,19,Multidimensional analysis of moving object data,"Li, Xiaolei",University of Illinois at Urbana-Champaign,2008,해외박사(DDOD)
+,20,Managing Shared Resources in the Data Center Era,"Zahedi, Seyed Majid",Duke University,2018,해외박사(DDOD)
+,21,Connecting the Dots for People with Autism: A Data-Driven Approach to Designing and Evaluating a Global Filter,"Sean, Viseth",Chapman University,2020,해외박사(DDOD)
+,22,Analysis on location choice for foreign branches in Chinese big four banks,Wang Siqi,Hankuk University of Foreign Studies. Graduate School,2018,국내석사
+,23,"The Main, Mediated, and Moderated Effects of the Big Five Personality Factors on Offending","Loftus, Zachary V",The Florida State University,2019,해외박사(DDOD)
+,24,(The) causes of shrinking middle class in South Korea : with evidences from statistical data,박선홍,"Graduate School of International Studies, Korea University",2017,국내석사
+,25,Labor cost and foreign direct investment in China: : empirical evidence from Chinese regional data,"Liu, Ya","Graduate School of International Studies, Korea University",2017,국내석사
+,26,"성격 5요인이 자기효능감, 직무스트레스 및 조직효율성에 미치는 영향에 관한 연구 : 대학 교직원을 사례로 = Research on the Influence of Big Five Personality on Self-efficacy, Occupational Stress, and Organizational Effectiveness",조개,목원대학교 대학원,2021,국내석사
+,27,"Research on Market Expanding and Audience Development of Original Musicals in China : Taking Big and Small Musicals King’s Table and Mama, Love Me Again as an Example",YANG HONGYU,가천대학교 글로벌캠퍼스 일반대학원,2024,국내박사
+,28,Does Corporate Digital Transformation Affect the Comparability of Accounting Information? : Concentrating on the Big 4 Accounting Firms,MA HAN,경희대학교 대학원,2024,국내석사
+,29,Study on the relation between housing price and credit supply : empirical evidence from Chinese big cities,"ZHU, MENGYING",이화여자대학교 대학원,2015,국내석사
+,30,새로운 딥 러닝 기반 소프트웨어를 이용한 슬관절의 방사선학적 관절 간격의 정량화 연구 = Automated Quantification of Radiologic Joint Space Width of the Knee Using a Novel Deep Learning-based Software: Data from the Osteoarthritis Initiative (OAI),연창진,계명대학교 대학원,2023,국내박사
+,31,The big picture:  A time-series analysis of communications impact on national development,"Hill, Jonathan Yates",The University of North Carolina at Chapel Hill,2000,해외박사(DDOD)
+,32,Catching the Big Wave: Public Opinion Polls and Bandwagons in US and Canadian Elections,"Daigle, Delton T",The Ohio State University,2010,해외박사(DDOD)
+,33,Small towns and big stores: Local controversies over the siting of superstores,"Halebsky, Stephen Eugene",The University of Wisconsin - Madison,2001,해외박사(DDOD)
+,34,"""Daddy's girl"" and ""Big Man On Campus"": Turning points in the development of parent-adolescent relationships","Ramey, Mary Ellen",University of Illinois at Urbana-Champaign,2010,해외박사(DDOD)
+,35,Beyond Bambi and Big Bucks: Exploring the Social Complexity of Deer Management in Indiana   [electronic resource],"Stinchcomb, Taylor R",Purdue University,2022,해외박사(DDOD)
+,36,"Gods, Goods and Big Game: The Archaeology of Labrador Inuit Choices in an Eighteenth- and Nineteenth-Century Mission Context","Arendt, Beatrix Joy Yvonne Michelle",University of Virginia,2011,해외박사(DDOD)
+,37,"Greed, vested interests, and the big stick:  Studying education policymaking in New York through charter schools","Hendrickson, Robert Allen",Fordham University,2005,해외박사(DDOD)
+,38,"Who's afraid of the big, bad firm?  The civic and political implications of economic scale","Humphries, Stanley Bradford",University of Virginia,2000,해외박사(DDOD)
+,39,Korean FTAs with developing countries : preferences and trade flow perspectives using panel data for 2002-2014,Mauro Sebastian Baquero Segovia,Kyung Hee University,2018,국내석사
+,40,"Relationship among Basic Psychological Needs, Achievement Goals, Intrinsic Motivation, and Academic Performance of College Students Majoring in Tennis : Big Five Personality as Control Variables",인항,호서대학교 일반대학원,2023,국내박사
+,41,수술후 보조요법으로 타목시펜을 투여받은 유방암 환자에서 CYP2D6 유전형과 타목시펜의 임상적 효과 간의 관련성 평가: 기존 임상시험 결과들의 메타 분석 : Evaluation of Association between CYP2D6 Genotypes and Clinical Outcomes of Adjuvant Tamoxifen Treatment in Patients with Breast Cancer: an approach based on aggregate data from published clinical trials,정진아,울산대학교 대학원,2013,국내박사
+,42,시공간 수리모델링과 생활인구 빅데이터를 활용한 재난관리자원 자동심장충격기의 배치 최적화,황성은,명지대학교 대학원,2023,국내박사
+,43,Take Me to SSD: A Hybrid Block-Selection Method on HDFS Based on Storage Type : 저장장치 타입 정보를 활용한 HDFS내의 하이브리드 데이터블록 선택기법,"Kim, Minkyung",연세대학교 일반대학원,2016,국내석사
+,44,제조 환경을 지원하는 데이터 기반 웹가시화 시스템,DOUNG CHANKHIHORT,충북대학교,2018,국내석사
+,45,모바일 환경에서 상황인식 데이터를 이용한 시맨틱 정보검색,구미숙,충북대학교,2014,국내박사
+,46,A deep learning framework for anomaly detection in multivariate time series = 다변량 시계열 데이터에 대한 딥러닝 기반의 이상치 탐지,Minjoo Ku,Ulsan National Institute of Science and Technology,2023,국내석사
+,47,GraDuck: A Multi-Model Database System with Native Graph Processing = GraDuck: 네이티브 그래프 처리를 이용한 다모델 데이터베이스 시스템,최유진,서울대학교 대학원,2024,국내석사
+,48,작물 육종을 위한 표현체 데이터 딥러닝 분석 = Deep Learning-based Phenotypic Analyses  for Crop Breeding,정민아,과학기술연합대학원대학교,2022,국내박사
+,49,제한된 훈련 데이터셋에서 이미지 변환 및 2단계 전이학습을 사용한 향상된 식물 병증 인식 = Enhanced Plant Disease Recognition with Limited Training Dataset Using Image Translation and Two-Step Transfer Learning,허명락,전북대학교 일반대학원,2023,국내박사
+,50,인메모리 관계형 데이터베이스에서 혼합 워크로드 처리를 위한 동적 워크로드 인식 페이지 저장 모델,박경현,충북대학교,2018,국내박사
+,51,보건의료 빅데이터 플랫폼에서 웹 기반 OLAP 시스템 구현,"Ly, Pichponreay",충북대학교,2017,국내석사
+,52,트리거리와 t-SNE알고리즘을 이용한 빅데이터 활용 및 이점,이수영,국방대학교 국방관리대학원,2016,국내석사
+,53,국민건강보험공단 데이터베이스를 활용한 출생 체중별 소아암 위험도 분석 연구 = Risk of Childhood Cancer According to Birth Weight Using Database of the National Health Insurance Service in Korea,정의석,서울대학교 대학원,2022,국내박사
+,54,Analysis of Sedation and General Anesthesia in Patients with Special Needs in Dentistry using the Korean Healthcare Bigdata = 보건의료 빅데이터를 이용한 대한민국에서의 장애인 치과 진정법과 전신마취의 실태 조사,김지은,서울대학교 대학원,2022,국내석사
+,55,Multivariate Online Sequential Extreme Studentized Deviate Method for Anomaly Detection in Multivariate Time Series Datasets = Multivariate Online Sequential Extreme Studentized Deviate 기법을 활용한 다변량 시계열 데이터셋에서의 이상치 탐지,김성우,한양대학교 대학원,2024,국내석사
+,56,관계형 데이터베이스로부터 온톨로지 생성을 위한 변환 규칙에 관한 연구 = A Study on Converting Rules for Generating Ontology from RDB,Xu Ni,전북대학교,2007,국내석사
+,57,A Study on the Efficient Market Hypothesis to Predict Exchange Rate Trends Using Sentiment Analysis of Twitter = 트위터 데이터의 정서분석을 이용하여 환율 변동 추새를 예측할 수 있는 효율적인 시장 가설에 관한 연구,Kokoy Siti KOMARIAH,부경대학교 대학원,2016,국내석사
+,58,3차원 스캔 데이터를 이용한 유한요소모델생성,이수용,인제대학교 대학원,2006,국내석사
+,59,CMFS: 계층적 스토리지에서 하이브리드 파일 시스템의 메타데이터 압축 기술 = CMFS: compressing metadata for hybrid file system for hierarchical storage,전태종,한양대학교 대학원,2011,국내석사
+,60,Ranking Algorithms on Directed Configuration Networks,"Chen, Ningyuan",Columbia University,2015,해외박사(DDOD)
+,61,High-Dimensional Inference in Dynamic Environments,"Hall, Eric C",Duke University,2015,해외박사(DDOD)
+,62,Exploring the power of heterogeneous information sources,"Gao, Jing",University of Illinois at Urbana-Champaign,2011,해외박사(DDOD)
+,63,Algorithms for Large-Scale Astronomical Problems,"Fu, Bin",Carnegie Mellon University,2013,해외박사(DDOD)
+,64,Scalable and practical probability density estimators for scientific anomaly detection,"Pelleg, Dan",Carnegie Mellon University,2004,해외박사(DDOD)
+,65,Inference on Large-scale Structures,"Ke, Zheng",Princeton University,2014,해외박사(DDOD)
+,66,On differentially private mechanisms for count-range queries and their applications,"Zeng, Chen",The University of Wisconsin - Madison,2013,해외박사(DDOD)
+,67,Multiple Bias Modeling in a Multi-Center Epidemiologic Study of Endometrial Cancer,"Thompson, Caroline Avery","University of California, Los Angeles",2013,해외박사(DDOD)
+,68,Large-scale sparse regression models under weak assumptions,"Raskutti, Garvesh","University of California, Berkeley",2012,해외박사(DDOD)
+,69,Handheld and robotic phenotyper designs,"Wei, Yong",Kansas State University,2017,해외박사(DDOD)
+,70,Bayesian Nonparametric methods in marketing,"Satyavolu, Saisandeep Reddy",Cornell University,2016,해외박사(DDOD)
+,71,"Hybrid Human-Machine Vision Systems: Image Annotation using Crowds, Experts and Machines","Welinder, Peter",California Institute of Technology,2012,해외박사(DDOD)
+,72,Efficient Fault-Tolerant Infrastructure for Cloud Computing,"Su, Xueyuan",Yale University,2013,해외박사(DDOD)
+,73,Parallel and Distributed Systems for Probabilistic Reasoning,"Gonzalez, Joseph",Carnegie Mellon University,2012,해외박사(DDOD)
+,74,Incentivizing Effiiency in Societal-Scale Cyber-Physical Systems,"Ratliff, Lillian Jane","University of California, Berkeley",2015,해외박사(DDOD)
+,75,Development and Application of an Integrated Parallel Platform on Short-read Sequences Assembly,"He, Fei",State University of New York at Stony Brook,2016,해외박사(DDOD)
+,76,Distributed Tracking and Re-Identification in a Camera Network,"Sunderrajan, Santhoshkumar","University of California, Santa Barbara",2014,해외박사(DDOD)
+,77,The Mining and Application of Diverse Cultural Perspectives in User-Generated Content,"Hecht, Brent Jason",Northwestern University,2013,해외박사(DDOD)
+,78,Situation Recognition from Multi-Resolution Event Streams,"Pongpaichet, Siripen","University of California, Irvine",2016,해외박사(DDOD)
+,79,Improving MapReduce performance in large-scale clusters,"Ahmad, Faraz",Purdue University,2013,해외박사(DDOD)
+,80,Heterogeneous Learning and Its Applications,"Shi, Xiaoxiao",University of Illinois at Chicago,2013,해외박사(DDOD)
+,81,Algorithms for constraint-based learning of Bayesian network structures with large numbers of variables,"de Jongh, Martijn",University of Pittsburgh,2014,해외박사(DDOD)
+,82,Performance modeling and resource management for MapReduce applications,"Zhang, Zhuoyao",University of Pennsylvania,2014,해외박사(DDOD)
+,83,Signal processing system design for two-dimensional magnetic recording disk drives,"Zheng, Ning",Rensselaer Polytechnic Institute,2015,해외박사(DDOD)
+,84,Improving Design Efficiency for Large-Scale Heterogeneous Circuits,"Gregerson, Anthony",The University of Wisconsin - Madison,2015,해외박사(DDOD)
+,85,Employing quantitative and qualitative analytic methods for internet biosurveillance of pandemic influenza,"Iarocci, Emily A",Georgetown University,2013,해외박사(DDOD)
+,86,Doping graphene with manganese-based single molecule magnets: Electronic properties,"Saeidi Varnoosfaderani, Sima",University of Florida,2015,해외박사(DDOD)
+,87,Practical Algorithms for Sparse Graphs,"Pszona, Pawel Karol","University of California, Irvine",2014,해외박사(DDOD)
+,88,Essays in the Value of Intermediaries in the Real Estate Market,"Shui, Xi","University of California, Berkeley",2016,해외박사(DDOD)
+,89,Scaling Software Security Analysis to Millions of Malicious Programs and Billions of Lines of Code,"Jang, Jiyong",Carnegie Mellon University,2013,해외박사(DDOD)
+,90,A Robust Control Perspective on Optimization of Strongly-Convex Functions,"Hu, Bin",University of Minnesota,2016,해외박사(DDOD)
+,91,Un/Accountable Enlightenment,"Seiler, Rachel A",Indiana University,2017,해외박사(DDOD)
+,92,"Systems and Algorithms for High-Performance, Cost-Efficient Key-Value Storage","Li, Xiaozhou",Princeton University,2016,해외박사(DDOD)
+,93,Evaluating past and present plant distributions using biodiversity informatics,"Harris, AJ",Oklahoma State University,2015,해외박사(DDOD)
+,94,Mining Disparate Sources for Question Answering,"Sun, Huan","University of California, Santa Barbara",2016,해외박사(DDOD)
+,95,Essays on Product Strategies through Consideration of Individual Distributions,"Perry, Hagit","University of California, Berkeley",2016,해외박사(DDOD)
+,96,Secure Computation Towards Practical Applications,"Krell Loy, Fernando",Columbia University,2016,해외박사(DDOD)
+,97,Essays in Corporate and Consumer Finance,"Iverson, Benjamin Charles",Harvard University,2013,해외박사(DDOD)
+,98,The analog linear interpolation approach for Monte Carlo simulation of prompt gamma-ray neutron activation analysis,"Zhang, Wenchao",North Carolina State University,2003,해외박사(DDOD)
+,99,Connecting Users with Similar Interests for Group Understanding,"Wang, Xufei",Arizona State University,2013,해외박사(DDOD)
+,100,An analysis of the production efficiency of Division I-A intercollegiate athletic programs,"Raycraft, Michael Donald",University of Illinois at Urbana-Champaign,2001,해외박사(DDOD)
+,1,Distributed stochastic optimization for deep learning,"Zhang, Sixin",New York University,2016,해외박사(DDOD)
+,2,Palynological investigations related to archaeological sites and the expansion of wild rice (Zizania aquatica L.) in northeast Minnesota,"Huber, James Kenneth",University of Minnesota,2001,해외박사(DDOD)
+,3,The Ertebolle Faunal Economy and the Transition to Agriculture in Southern Scandinavia,"Gron, Kurt",The University of Wisconsin - Madison,2013,해외박사(DDOD)
+,4,Essays on compensation structures and human capital migration,"Pema, Elda",Michigan State University,2003,해외박사(DDOD)
+,5,Water Stress And Water Use Of Almonds In California: Linking Plant Water Status And Canopy Transpiration,"Spinelli, Gerardo","University of California, Davis",2015,해외박사(DDOD)
+,6,The constrained vapor bubble heat pipe experiment: Understanding the role of interfacial flow,"Kundan, Akshay",Rensselaer Polytechnic Institute,2016,해외박사(DDOD)
+,7,Learning Features for Text Classification,"Zhang, Bin",University of Washington,2013,해외박사(DDOD)
+,8,Three Essays on Creative Destruction,"Igami, Mitsuru","University of California, Los Angeles",2012,해외박사(DDOD)
+,9,How organizational learning occurs through Academic Quality Improvement Program (AQIP) action projects:  A community college experience,"Stewart, Vicky Rae",University of Illinois at Urbana-Champaign,2006,해외박사(DDOD)
+,10,"Alternative public land management: Judging the economic, regional, and institutional context of the charter forest experiment on the Valles Caldera National Preserve (New Mexico)","Little, Joseph Mikel",The University of New Mexico,2005,해외박사(DDOD)
+,11,Dynamic cooperation with private information,"Skrzypacz, Andrzej",The University of Rochester,2000,해외박사(DDOD)
+,12,Optimizing a Retailer's Containerized Import Supply Chain,"Davidson, Evan Taitz","University of California, Berkeley",2012,해외박사(DDOD)
+,13,Personal epistemological development of Chinese engineering doctoral students in U.S. institutions: An application of Perry's theory,"Zhu, Jiabin",Purdue University,2013,해외박사(DDOD)
+,14,Efficient Memory Virtualization,"Gandhi, Jayneel",The University of Wisconsin - Madison,2016,해외박사(DDOD)
+,15,Moving from the margins to the mainstream:  Teaching and learning reform in local policy context,"Burch, Patricia Ellen",Stanford University,2000,해외박사(DDOD)
+,16,Diversity of Shiga toxin-converting phage and CRISPR loci in Shiga toxin-producing Escherichia coli: Evolutionary and pathogenicity implications,"Yin, Shuang",The Pennsylvania State University,2014,해외박사(DDOD)
+,17,Precision cosmological parameter estimation,"Fendt, William Ashton, Jr",University of Illinois at Urbana-Champaign,2009,해외박사(DDOD)
+,18,Models of durable goods promotion:  Theory and empirical evidence,"Bruce, Norris Ignatius",Duke University,2001,해외박사(DDOD)
+,19,Feature Extraction in Sequential Multimedia Images: with Applications in Satellite Images and On-line Videos,"Liang, Yu-Li",University of Colorado at Boulder,2012,해외박사(DDOD)
+,20,Jump-diffusion models of asset prices:  Theory and empirical evidence,"Pan, Jun",Stanford University,2000,해외박사(DDOD)
+,21,Learning with Scalability and Compactness,"Chen, Wenlin",Washington University in St. Louis,2016,해외박사(DDOD)
+,22,"Invoking the tooth fairy twice, or how to identify cases of ad hoc hypothesis acceptance","Scott, Sarah Louise",The University of North Carolina at Chapel Hill,2007,해외박사(DDOD)
+,23,Large-scale affective computing for visual multimedia,"Jou, Brendan",Columbia University,2016,해외박사(DDOD)
+,24,"Taking over: Federalism, deterrence, and the search for educational accountability","Saiger, Aaron",Princeton University,2004,해외박사(DDOD)
+,25,The O. C. Voss site: Reassessing what we know about the Fort Ancient occupation of the central Scioto drainage and its tributaries,"Brady-Rawlins, Kathleen",The Ohio State University,2007,해외박사(DDOD)
+,26,The Use of Construct Maps in Understanding 7th Grade Students' Learning of Chemical Reaction,"Glazer, Nirit",University of Michigan,2011,해외박사(DDOD)
+,27,Building efficient and reliable software-defined networks,"Katta, Naga Praveen Kumar",Princeton University,2016,해외박사(DDOD)
+,28,Scalable Analysis of Information Flows in Networks,"Subbian, Karthik",University of Minnesota,2014,해외박사(DDOD)
+,29,A feasibility study of a computerized adaptive test of the International Personality Item Pool NEO,"McClarty, Katie Larsen",The University of Texas at Austin,2006,해외박사(DDOD)
+,30,"Economics of SPEs ""spacemen"": Tax evasion, stealing, corporate governance and capital structure; evidence from Russia","Mironov, Maxim",The University of Chicago,2008,해외박사(DDOD)
+,31,One more river to cross:  African-American congregations at the dawn of a new millennium,"Boddie, Stephanie Clintonia",University of Pennsylvania,2002,해외박사(DDOD)
+,32,"Quantification of vegetation diversity and variation on intact and degraded rangelands (Artemisia tridentata, Achnatherum thurberianum, Stipa thurberiana)","Dysart, Patricia Louise",Oregon State University,2002,해외박사(DDOD)
+,33,No-reference and reduced reference video quality metrics:  New contributions,"Farias, Mylene Christine Queiroz de","University of California, Santa Barbara",2004,해외박사(DDOD)
+,34,From Darkness to Light: Signatures of the Universe's First Galaxies in the Cosmic 21-cm Background,"Mirocha, Jordan",University of Colorado at Boulder,2015,해외박사(DDOD)
+,35,Microeconomic Models for Managing Shared Datacenters,"Llull, Qiuyun",Duke University,2017,해외박사(DDOD)
+,36,Listening at the Edges: Aural Experience and Affect in a New York Jazz Scene,"Somoroff, Matthew",Duke University,2014,해외박사(DDOD)
+,37,Statistical Modeling in Endocrinology: MLE Asymptotics for Difference and Integral Equation-Based Methods,"Liu, Yan",University of Virginia,2010,해외박사(DDOD)
+,38,"Effacing the 'imagined slum': Space, subjectivity, and sociality in the margins of New Orleans","Gray, Danny Ryan",The University of Chicago,2012,해외박사(DDOD)
+,39,Efficiency and stock market performances of electric power generating companies: A comprehensive analysis of deregulation and reregulation era,"Gurgen, Ender",Rensselaer Polytechnic Institute,2003,해외박사(DDOD)
+,40,The Influence of ELL Teachers' Professional Development on Classroom Practice,"Chien, Chin-Wen",University of Washington,2011,해외박사(DDOD)
+,41,Credit spreads on the secondary market of sovereign bonds of emerging market countries,"Barcinski, Alexandre",The University of Chicago,2001,해외박사(DDOD)
+,42,Corruption and democratization in the Repubic of Korea: The end of political bank robbery,"Schopf, James C","University of California, San Diego",2003,해외박사(DDOD)
+,43,A search for weakly interacting dark matter particles with low temperature detectors capable of simultaneously measuring ionization and heat,"Sonnenschein, Andrew Harry","University of California, Santa Barbara",1999,해외박사(DDOD)
+,44,"Institutions and economic reform in Mexico:  The case of economic pacts, 1987--1997","Ortega Riquelme, Juan Manuel",Boston University,2002,해외박사(DDOD)
+,45,Exploring first-year teacher learning through the lens of Mezirow's transformative learning theory (Jack Mezirow),"Cuddapah, Jennifer Locraft",Columbia University Teachers College,2005,해외박사(DDOD)
+,46,"The perceptions of student teachers, cooperating teachers, and university supervisors regarding the assessment of student teacher performance","Traister, Catherine A",The Pennsylvania State University,2005,해외박사(DDOD)
+,47,"Autonomy, leadership, and democratization:  Changes in university governance in Spanish public universities, 1983--1996","Murphy, Patricia Brigid",Boston College,2000,해외박사(DDOD)
+,48,"Meter, phrase, and form in the compositions of Maria Schneider","Geyer, Benjamin M",University of Kentucky,2016,해외박사(DDOD)
+,49,Empirical Analyses of Automotive Supplier Plant Locations,"Rosenbaum, Ted Carl",Yale University,2013,해외박사(DDOD)
+,50,Performance Modeling and Characterization of Multicore Computing Systems,"Krishna, Anil",North Carolina State University,2013,해외박사(DDOD)
+,51,"Rethinking democratic schooling:  Questions of race, class, and gender in liberal progressive pedagogy","Bianco, Lisa Francesca","Teachers College, Columbia University",2006,해외박사(DDOD)
+,52,Understanding and quantifying the impact of changes on construction labor productivity: Integration of productivity factors and quantification methods,"Lee, Seulkee","University of California, Berkeley",2007,해외박사(DDOD)
+,53,The effects of teacher attributes on student grades,"Loughery, George B., IV",University of Southern California,2006,해외박사(DDOD)
+,54,Empirical validation of a model of franchisee job satisfaction  (organizational commitment)   [microform],"Morrison, Kimberley A",Rensselaer Polytechnic Institute,1995,국내박사
+,55,Temporal graph record linkage and k-safe approximate match,"Jupin, Joseph",Temple University,2016,해외박사(DDOD)
+,56,Benchmarking interactive social networking actions,"Barahmand, Sumita",University of Southern California,2014,해외박사(DDOD)
+,57,An Architecture of Participation for Computational Social Biology,"Brown, Nicholas Williams","University of California, Los Angeles",2013,해외박사(DDOD)
+,58,Declarative systems,"Condie, Tyson","University of California, Berkeley",2011,해외박사(DDOD)
+,59,Efficient learning and inference for probabilistic graphical models,"Nie, Siqi",Rensselaer Polytechnic Institute,2016,해외박사(DDOD)
+,60,Investigating Large-Scale Internet Abuse Through Web Page Classification,"Der, Matthew Francis","University of California, San Diego",2015,해외박사(DDOD)
+,61,Cloud-based Methods and Architectures for Robot Grasping,"Kehoe, Benjamin Robert","University of California, Berkeley",2014,해외박사(DDOD)
+,62,Keeping pace: Business-to-business marketers and emerging technologies in the consumer electronics industry,"Rottinghaus, Adam Richard",The University of North Carolina at Chapel Hill,2015,해외박사(DDOD)
+,63,The Cost of Sharing Information in a Social World,"Ramachandran, Arthi",Columbia University,2017,해외박사(DDOD)
+,64,Large Scale Human Activity Monitoring for Diverse Subjects,"Xu, Xiaoyu","University of California, Los Angeles",2013,해외박사(DDOD)
+,65,Probabilistic Methods for Distributed Learning,"Zhang, XianXing",Duke University,2014,해외박사(DDOD)
+,66,Frontiers in Using LiDAR to Analyze Urban Landscape Heterogeneity,"Singh, Kunwar Krishna Veer",North Carolina State University,2014,해외박사(DDOD)
+,67,Studies of Phonon Anharmonicity in Solids,"Lan, Tian",California Institute of Technology,2014,해외박사(DDOD)
+,68,"Learning with sparsity: Structures, optimization and applications","Chen, Xi",Carnegie Mellon University,2013,해외박사(DDOD)
+,69,Improving Relational Machine Learning by Modeling Temporal Dependencies,"Rossi, Ryan A",Purdue University,2015,해외박사(DDOD)
+,70,The spies we trust: Third party service providers and law enforcement surveillance,"Soghoian, Christopher",Indiana University,2012,해외박사(DDOD)
+,71,"The Impact of Weighting Marginal DCS Events as Non-Events, Pharmacokinetic Gas Content Models, and Optimal Decompression Schedule Calculation","Murphy, F. Gregory",Duke University,2017,해외박사(DDOD)
+,72,Digital Punishment: The Production and Consequences of Online Crime Reporting,"Lageson, Sarah Esther",University of Minnesota,2015,해외박사(DDOD)
+,73,Natural Resources and Spatial Spillovers,"Batbold, Dulguun",University of Minnesota,2015,해외박사(DDOD)
+,74,"From the streets to the voting booth and back: Contexts, institutions, and political participation in American cities, 1979--2003","Caren, Neal",New York University,2005,해외박사(DDOD)
+,75,A Quadruple-Based Text Analysis System for History and Philosophy of Science,"Damerow, Julia",Arizona State University,2014,해외박사(DDOD)
+,76,"The study and modeling of atrazine fate in buffer strips soil (Andropogon geradi, Panicum virgatum, Tripsacum dactyloides)","Reungsang, Alissara",Iowa State University,2000,해외박사(DDOD)
+,77,The Road Taken:  Women's Life Paths and Personality Development in Late Midlife,"Newton, Nicola J",University of Michigan,2011,해외박사(DDOD)
+,78,"""How can you love a work, if you don't know it?"": Critical code and design towards participatory digital editions","Visconti, Amanda","University of Maryland, College Park",2015,해외박사(DDOD)
+,79,Pragmatic strategies and power relations in disagreement:  Chinese culture in higher education,"Liu, Si",The University of Arizona,2004,해외박사(DDOD)
+,80,Probability approximations with applications in computational finance and computational biology,"Wu, Yichao",The University of North Carolina at Chapel Hill,2006,해외박사(DDOD)
+,81,Supporting Implicit Mobile Communication: Harnessing Ubiquitous Sensors for Context and Content to Support Social Connection,"Bales, Elizabeth ShanLing Cheng","University of California, San Diego",2013,해외박사(DDOD)
+,82,Fixed and Random Effects Models and Multistage Estimation Procedures for Statistical Population Reconstructions,"Gast, Christopher M",University of Washington,2012,해외박사(DDOD)
+,83,Towards Querying and Mining of Large-Scale Networks,"Khan, Arijit","University of California, Santa Barbara",2013,해외박사(DDOD)
+,84,"An investigation of accuracy, learning and biases in judgmental adjustments of statistical forecasts","Eroglu, Cuneyt",The Ohio State University,2006,해외박사(DDOD)
+,85,Spatio-temporal properties of shallow clouds with an emphasis on the area distribution of radar echoes,"Trivej, Panu","University of California, Los Angeles",2009,해외박사(DDOD)
+,86,Adaptive nonlinear modeling and optimization with application to power plant boiler emissions,"Bian, Xiaodong",Lehigh University,2005,해외박사(DDOD)
+,87,You focus on the forest when you're in charge of the trees:  The effect of power priming on information processing,"Smith, Pamela Karen",New York University,2004,해외박사(DDOD)
+,88,Nonparametric estimation of supermodular regression functions with applications to the telecommunication industry,"Beresteanu, Arie",Northwestern University,2001,해외박사(DDOD)
+,89,Propagation of sonic booms in urban landscapes,"Riegel, Kimberly A",The Pennsylvania State University,2012,해외박사(DDOD)
+,90,Atmospheric effects on events measured by the Pierre Auger Observatory surface detector,"Criss, Adrienne Elizabeth",The Pennsylvania State University,2012,해외박사(DDOD)
+,91,Essays on the Macroeconomic Effects of Heterogeneous Information,"Venkateswaran, Vaidyanathan","University of California, Los Angeles",2011,해외박사(DDOD)
+,92,Four-dimensional and vision-based framework for infrastructure maintenance management,"Zhang, Zixiao",Stanford University,2009,해외박사(DDOD)
+,93,Structural architecture of bacteriophage described  via streamlined cryo-electron microscopy,"Lander, Gabriel C",The Scripps Research Institute,2009,해외박사(DDOD)
+,94,Essays on Macroeconomic Policies,"Waki, Yuichiro",University of Minnesota,2011,해외박사(DDOD)
+,95,"Variation in foliar structure and function within the crowns of conifers growing in the central Sierra Nevada, CA","Boniello, Ralph Anthony, IV","University of California, Berkeley",2008,해외박사(DDOD)
+,96,"Power and class conflict in capitalist democracy:  Business contributions, labor contributions, and two decades of legislative influence in the United States","Peoples, Clayton D",The Ohio State University,2005,해외박사(DDOD)
+,97,End-of-life transition experiences of ICU nurses: Mindful realization,"Moscatel, Sarah J",University of Colorado Health Sciences Center,2005,해외박사(DDOD)
+,98,Biogeomorphic evolution of new Missouri River wetlands:  A remote sensing approach,"Niebur, Curt Stanley",Washington University,2001,해외박사(DDOD)
+,99,Estimation of Financial Models Using Moment Conditions Defined on Frequency Domain,"Grynkiv, Iaryna",Duke University,2012,해외박사(DDOD)
+,100,Empirical essays on auctions,"Roberts, James W",Northwestern University,2009,해외박사(DDOD)
